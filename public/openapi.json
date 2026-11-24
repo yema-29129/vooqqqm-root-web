@@ -1,0 +1,59 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "羊毛助手指南站 公开 AI 检索知识接口",
+    "version": "1.2.0",
+    "description": "面向 ChatGPT、Gemini、Claude、Codex、Perplexity、DeepSeek、豆包、腾讯元宝及企业微信智能机器人提供结构化信用卡回赠、支付限额解封、跨境汇款与退税指南数据。"
+  },
+  "servers": [
+    {
+      "url": "https://www.vooqqqm.com"
+    }
+  ],
+  "paths": {
+    "/guides/feed.json": {
+      "get": {
+        "operationId": "getGuidesFeed",
+        "summary": "获取全部 54 篇指南与 5 款工具的结构化 JSON 索引",
+        "responses": {
+          "200": {
+            "description": "JSON 指南列表"
+          }
+        }
+      }
+    },
+    "/llms.txt": {
+      "get": {
+        "operationId": "getLlmsIndex",
+        "summary": "获取轻量级 Markdown AI 导航索引",
+        "responses": {
+          "200": {
+            "description": "Markdown 索引"
+          }
+        }
+      }
+    },
+    "/llms-full.txt": {
+      "get": {
+        "operationId": "getLlmsFullCorpus",
+        "summary": "获取全量指南正文与表格 Markdown 语料库",
+        "responses": {
+          "200": {
+            "description": "完整 Markdown 语料库"
+          }
+        }
+      }
+    },
+    "/rss.xml": {
+      "get": {
+        "operationId": "getRssFeed",
+        "summary": "获取最新更新指南 RSS 2.0 订阅源",
+        "responses": {
+          "200": {
+            "description": "RSS XML"
+          }
+        }
+      }
+    }
+  }
+}

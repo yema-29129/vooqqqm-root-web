@@ -1,0 +1,1507 @@
+{
+  "site": "羊毛助手指南站",
+  "url": "https://www.vooqqqm.com/",
+  "companionDealsSite": "https://bank.vooqqqm.com/",
+  "updatedAt": "2026-11-25",
+  "totalGuides": 54,
+  "tools": [
+    {
+      "name": "香港熱門信用卡簽賬回贈對比計算器",
+      "url": "https://www.vooqqqm.com/tools/hk-card-rebate-calculator.html"
+    },
+    {
+      "name": "银行微信/支付宝/拼多多/美团限额与风控速查器",
+      "url": "https://www.vooqqqm.com/tools/payment-limit-checker.html"
+    },
+    {
+      "name": "跨境刷卡 DCC 与转汇成本对比计算器",
+      "url": "https://www.vooqqqm.com/tools/fx-dcc-calculator.html"
+    },
+    {
+      "name": "周期储蓄与复利终值计算器",
+      "url": "https://www.vooqqqm.com/tools/compound-calculator.html"
+    },
+    {
+      "name": "定期存款单利利息计算器",
+      "url": "https://www.vooqqqm.com/tools/simple-interest-calculator.html"
+    }
+  ],
+  "guides": [
+    {
+      "slug": "boc-chill-card-cashback-guide",
+      "url": "https://www.vooqqqm.com/guides/boc-chill-card-cashback-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "中銀 Chill Card 簽賬回贈全攻略：網購、Apple Pay、海外簽賬回贈上限與注意事項",
+      "summary": "全面拆解中銀信用卡 BOC Chill Card（中银 Chill 卡）的核心回贈結構：指定 Chill 商戶、網上簽賬、海外及流動支付（Apple Pay）額外現金回贈比例、每月封頂上限與常見不合資格簽賬避坑。",
+      "keywords": [
+        "中銀 chill card",
+        "chill card 回贈",
+        "中銀信用卡 chill card",
+        "chill card 優惠",
+        "中銀chill card網購",
+        "香港網購信用卡推薦"
+      ],
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "中銀 Chill Card 的額外現金回贈什麼時候入賬？",
+          "answer": "0.4% 基本回贈通常隨當期月結單入賬，而推廣期的額外現金回贈一般會在簽賬月份結束後的次月或隔月內存入信用卡賬戶，顯示為獨立的推廣回贈項目。"
+        },
+        {
+          "question": "用 Apple Pay 在網上 App 內付款，算網購回贈還是流動支付回贈？",
+          "answer": "兩者不會重複雙倍疊加同一筆交易的額外回贈，系統會歸入合資格推廣簽賬池按單次封頂比例計算。"
+        }
+      ]
+    },
+    {
+      "slug": "boc-go-card-mainland-travel-guide",
+      "url": "https://www.vooqqqm.com/guides/boc-go-card-mainland-travel-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "中銀 Go 卡（BOC Go Card）回贈與北上消費實測：高鐵 12306、美團、微信支付及 BOC Pay 乘車優惠 2026",
+      "summary": "專為港人北上深圳大灣區及內地出行設計的中銀 Go 銀聯鑽石/白金卡深度評測：解析美團、大眾點評、高鐵 12306、滴滴出行高達 5% 回贈規則，以及綁定微信支付與 BoC Pay 乘車立減技巧。",
+      "keywords": [
+        "中銀go卡回贈",
+        "中銀go card",
+        "go卡",
+        "boc pay 乘車優惠 2026",
+        "恒生 12306",
+        "港人北上信用卡推薦"
+      ],
+      "datePublished": "2026-08-25",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "中銀 Go 卡的人民幣月結單欠款怎麼還最方便？",
+          "answer": "直接在 BoC Pay 或中銀香港手機銀行 App 內，用港幣儲蓄賬戶按銀行實時牌價一鍵兌換人民幣並即時償還 Go 卡人民幣賬戶結欠，全程免手續費。"
+        },
+        {
+          "question": "Go 商戶的高倍回贈需要提前登記嗎？",
+          "answer": "需要！中銀信用卡大部分倍數回贈及『狂賞派/狂賞飛』系列推廣均採登記制，建議出卡後第一時間在 BoC Pay 優惠專區完成一鍵登記。"
+        }
+      ]
+    },
+    {
+      "slug": "citic-in-motion-credit-card-guide",
+      "url": "https://www.vooqqqm.com/guides/citic-in-motion-credit-card-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "信銀國際 Motion 信用卡（中信 Motion 卡）食肆與網上簽賬 6% 回贈上限及合資格商戶拆解",
+      "summary": "深度解析香港高回贈神卡「信銀國際 Motion 信用卡」（inMotion 信用卡）的全年食肆與網上簽賬 6% 現金回贈規則：每月最高簽 HK$3,636 封頂計算法、迎新外幣/現金回贈選擇及繳費排除項。",
+      "keywords": [
+        "信銀國際 motion 信用卡",
+        "信銀國際motion信用卡",
+        "motion 信用卡",
+        "in motion 信用卡",
+        "中信 motion 回贈",
+        "信 銀 國際 motion 信用卡"
+      ],
+      "datePublished": "2026-09-02",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "用 Apple Pay 在餐廳拍 Motion 卡埋單，有 6% 食肆回贈嗎？",
+          "answer": "只要該餐廳收單終端的商戶類別碼（MCC）屬於合資格食肆類別，使用實體 Motion 卡插卡拍卡或透過 Apple Pay / Google Pay 感應付款均可正常獲享食肆回贈；但若透過第三方掃碼錢包轉接改變了商戶代碼則有機會失效，直接拍 Apple Pay 最穩陣。"
+        },
+        {
+          "question": "信銀國際 Motion 信用卡容易豁免年費嗎？",
+          "answer": "首年免年費，次年起若被收取年費，一般致電信銀國際客服熱線或在 App 內聯絡客服均可申請豁免。"
+        }
+      ]
+    },
+    {
+      "slug": "hsbc-red-card-apple-pay-rewardcash-guide",
+      "url": "https://www.vooqqqm.com/guides/hsbc-red-card-apple-pay-rewardcash-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "滙豐 HSBC Red 信用卡網購與 Apple Pay 回贈拆解：「獎賞錢」用法、超市及 SOGO 簽賬攻略",
+      "summary": "詳解香港國民網購卡 HSBC Red 信用卡的最新回贈分層：每月首 HK$10,000 網上簽賬 4%「獎賞錢」（RewardCash）、指定本地超市與熱門商戶回贈、Apple Pay 拍卡表現及滙豐崇光 SOGO 優惠疊加方法。",
+      "keywords": [
+        "red card apple pay 回贈",
+        "hsbc 信用卡 apple pay",
+        "red 信用卡 apple pay",
+        "奖赏钱",
+        "sogo hsbc",
+        "滙豐red卡網購"
+      ],
+      "datePublished": "2026-09-09",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "HSBC Red 信用卡收年費嗎？申請門檻高不高？",
+          "answer": "HSBC Red 卡主打永久免年費，且年薪要求親民（常見年薪 HK$120,000 即月薪一萬港幣即可申請），是香港最容易長期零成本持有的網購主力卡。"
+        },
+        {
+          "question": "用 HSBC Red 卡在網上交水電煤或保險保費有 4% 回贈嗎？",
+          "answer": "沒有。滙豐條款明確將網上繳費（透過網上理財繳付賬單）、保險費用、稅款及電子錢包轉賬充值排除在 4% 網上購物簽賬之外。"
+        }
+      ]
+    },
+    {
+      "slug": "trip-com-hsbc-credit-card-promo-guide",
+      "url": "https://www.vooqqqm.com/guides/trip-com-hsbc-credit-card-promo-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "Trip.com × HSBC 滙豐及香港信用卡優惠碼總整理（2026）：機票酒店滿減 Code 與簽賬疊加攻略",
+      "summary": "詳解在 Trip.com 香港站預訂機票、酒店及高鐵票時，如何疊加銀行專屬優惠碼（如 HSBC 機票酒店立減 Code、Mastercard 優惠）與信用卡本身 4%—6% 網購現金回贈，附搶券時間與港幣結算避坑指南。",
+      "keywords": [
+        "hsbc trip",
+        "trip.com hsbc",
+        "trip hsbc 優惠",
+        "hsbc trip com 優惠 2026",
+        "trip.com 信用卡",
+        "hsbc350f"
+      ],
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "用 Trip Coins 抵扣了一部分票款後，還能同時用 HSBC 優惠碼嗎？",
+          "answer": "一般可以同時使用，但請確保扣除平台自身折扣後，最終實際刷信用卡支付的淨金額仍達到該銀行優惠碼規定的最低滿減門檻。"
+        },
+        {
+          "question": "如果在 Trip.com 退票或免費取消酒店，用掉的限量銀行優惠碼會退回嗎？",
+          "answer": "若該期優惠碼名額池已經派發完畢，取消訂單後原名額會釋放回公共池而不會單獨鎖定保留在你的賬戶內，因此改期重訂前請先確認新訂單仍有名額。"
+        }
+      ]
+    },
+    {
+      "slug": "agoda-mastercard-wewa-hotel-discount-guide",
+      "url": "https://www.vooqqqm.com/guides/agoda-mastercard-wewa-hotel-discount-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "Agoda Mastercard 88 折與 WeWa / 滙豐信用卡訂房優惠攻略：專屬連結入口與延後付款匯率避坑",
+      "summary": "為什麼直接打開 Agoda App 找不到信用卡 88 折？詳解 Agoda 銀行專屬隱藏入口（agoda.com/mastercard 等）的識別機制、「適用優惠」標籤篩選法，以及切勿亂勾「延後付款」導致暗虧 5% 匯差的關鍵細節。",
+      "keywords": [
+        "agoda mastercard 88 折",
+        "agoda wewa",
+        "agoda信用卡優惠2026",
+        "agoda延後付款匯率坑",
+        "香港信用卡訂酒店優惠"
+      ],
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "安信 WeWa 信用卡在 Agoda 訂房怎麼拿最高回贈？",
+          "answer": "WeWa 卡除了可走 Agoda × WeWa 專屬連結享即時房價折扣外，若你將 WeWa 卡自選高回贈類別設定為「旅遊」或「手機支付」並符合當期推廣條款，還能疊加卡片本身的旅遊簽賬現金回贈（注意每月回贈封頂上限）。"
+        },
+        {
+          "question": "為什麼輸入 Mastercard 卡號後 88 折沒有自動彈出來？",
+          "answer": "首先檢查當前網址欄是否仍停留在銀行專屬合作路徑下（中途登入賬號有時會跳回普通首頁，建議先登入好 Agoda 賬號再重新點擊銀行專屬連結進入）；其次核對當月 88 折限量名額是否已轉為常規 92/93 折檔。"
+        }
+      ]
+    },
+    {
+      "slug": "bea-goal-credit-card-apple-pay-guide",
+      "url": "https://www.vooqqqm.com/guides/bea-goal-credit-card-apple-pay-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "東亞銀行 BEA GOAL 信用卡與 Apple Pay 回贈攻略：簽賬門檻、網購手機支付回贈上限與申請須知",
+      "summary": "解析東亞銀行主打年輕客群與數碼消費的 BEA GOAL 信用卡及東亞 Apple Pay 推廣規則：如何達成每月基本簽賬門檻以解鎖網購、手機感應支付（Apple Pay）高達 4.4%—5% 現金回贈。",
+      "keywords": [
+        "bea goal信用卡",
+        "bea goal 信用卡",
+        "bea goal",
+        "東亞 apple pay",
+        "東亞信用卡回贈",
+        "香港手機支付信用卡"
+      ],
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "BEA GOAL 信用卡非學生可以申請嗎？收年費嗎？",
+          "answer": "一般年滿 18 歲的香港居民（包括大專學生及在職人士）均可透過手機 App 申請，且豁免首年或附帶免年費優惠，數碼批核流程簡便。"
+        },
+        {
+          "question": "八達通自動增值算進 BEA GOAL 每月 HK$2,000 最低簽賬門檻嗎？",
+          "answer": "多數銀行條款不將八達通自動增值、電子錢包轉賬或網上繳費計入額外回贈的合資格零售簽賬門檻內，建議以真實餐飲、購物與拍卡消費湊足門檻。"
+        }
+      ]
+    },
+    {
+      "slug": "boc-dual-currency-card-and-debit-card-guide",
+      "url": "https://www.vooqqqm.com/guides/boc-dual-currency-card-and-debit-card-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "中銀雙幣信用卡與中銀扣賬卡（BOC Debit Card）全面對比：淘寶免手續費、北上與海外簽賬選哪張？",
+      "summary": "徹底分清「中銀雙幣信用卡（大灣區一卡通）」、「中銀萬事達扣賬卡（BOC Mastercard Debit Card）」與「中銀銀聯提款卡」三者的分別，詳解淘寶 BOC Credit Card 免手續費方法與海外多幣種直扣技巧。",
+      "keywords": [
+        "中銀雙幣信用卡",
+        "中銀 扣 帳 卡",
+        "中銀扣賬卡",
+        "中國銀行扣賬卡",
+        "中銀 debit card",
+        "boc credit card taobao"
+      ],
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "申請中銀萬事達扣賬卡（BOC Debit Card）需要查信貸報告（TU）或入息證明嗎？",
+          "answer": "完全不需要！只要你已經持有中銀香港個人綜合銀行賬戶，直接在 BoC Mobile Banking 手機銀行內幾分鐘即可免費即時開立虛擬及實體萬事達扣賬卡，零年費零門檻。"
+        },
+        {
+          "question": "在內地中國銀行開的儲蓄卡（內地借記卡）和香港「中銀扣賬卡」是同一張卡嗎？",
+          "answer": "不是。中國銀行（內地）與中銀香港（BOCHK）是兩地獨立營運的法人銀行，賬戶資金與卡片體系完全獨立，透過『中銀快匯』或『跨境支付通』可便捷同名調撥。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-unionpay-overseas-spending-best-cards",
+      "url": "https://www.vooqqqm.com/guides/hk-unionpay-overseas-spending-best-cards.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "香港銀聯信用卡海外簽賬用邊張最抵？免 1.95% 外幣手續費卡種、中銀狂賞飛與雲閃付優惠 2026",
+      "summary": "針對港人去日本、韓國、台灣及東南亞旅遊痛點，詳解為何香港銀聯信用卡天生免收 1.95% 外幣交易手續費，橫向對比中銀「狂賞飛」、滙豐脈搏卡（Pulse）、安信 EarnMORE 及雲閃付優惠 2026 疊加玩法。",
+      "keywords": [
+        "香港銀聯信用卡海外簽賬用邊張最抵？",
+        "中銀信用卡海外簽賬免手續費",
+        "中銀狂賞飛",
+        "銀聯卡優惠",
+        "雲閃付優惠2026"
+      ],
+      "datePublished": "2026-10-14",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "銀聯卡在歐洲或美國小鎮好用嗎？",
+          "answer": "日韓台、港澳、新馬泰的大型商場與便利店銀聯覆蓋率極高；但在歐美中小城鎮餐廳與無人售票機，銀聯受理度明顯不及 Visa/Mastercard。去歐美建議『1 張免外幣費銀聯卡刷大商場免稅店 ＋ 1 張高回贈萬事達扣賬卡/Visa 卡兜底』。"
+        },
+        {
+          "question": "『中銀狂賞飛』網購海外機票算不算海外實體簽賬？",
+          "answer": "務必看清條款！『狂賞飛』通常將『海外實體店當面刷卡簽賬』與『網上外幣簽賬』分開計算或僅限實體店簽賬，網購外幣機票建議改用網購高回贈卡。"
+        }
+      ]
+    },
+    {
+      "slug": "apple-store-credit-card-offers-2026",
+      "url": "https://www.vooqqqm.com/guides/apple-store-credit-card-offers-2026.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "2026 香港及內地 Apple 官網買 iPhone / Mac 信用卡優惠攻略：高回贈刷卡、免息分期與 Gift Card 規則",
+      "summary": "每年換新 iPhone、iPad 或 MacBook 動輒近萬元，刷哪張信用卡回贈最高？對比香港 Apple Store 刷 HSBC Red / 滙豐最紅購物優惠 / 渣打與內地國行官網 24 期免息分期方案。",
+      "keywords": [
+        "apple 信用卡 優惠 2026",
+        "香港買iphone用邊張信用卡",
+        "apple store免息分期",
+        "hsbc apple優惠",
+        "買macbook信用卡回贈"
+      ],
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "在香港 Apple 官網選『網上付款、門市自取（Pick up）』算網上簽賬嗎？",
+          "answer": "算！只要扣款動作是在 Apple.com 網頁或 Apple Store App 內線上完成的，銀行系統一律按「網上零售簽賬」統計，可正常拿滿 HSBC Red 卡 4% 或 Motion 卡 6%（限額內）網購回贈。"
+        },
+        {
+          "question": "去香港買 iPhone 用內地銀聯卡刷划算嗎？",
+          "answer": "內地銀聯卡在香港 Apple Store 門市刷港幣按銀聯實時匯率折算人民幣、零貨轉費，若剛好報名了內地發卡行的『境外線下刷卡滿額返現 2%～5%』活動，疊加港幣定價差往往非常划算。"
+        }
+      ]
+    },
+    {
+      "slug": "aeon-ccb-eye-fubon-hk-cards-comparison",
+      "url": "https://www.vooqqqm.com/guides/aeon-ccb-eye-fubon-hk-cards-comparison.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "AEON 信用卡積分、建行（亞洲）eye 信用卡、富邦信用卡迎新與便利店日常簽賬回贈對比",
+      "summary": "盤點香港三大特色實用卡系：AEON 卡日本簽賬與「感謝日」積分玩法、建行（亞洲）eye 信用卡網購與拍卡多倍積分，以及富邦香港信用卡日韓台高回贈與 OK 便利店日常優惠。",
+      "keywords": [
+        "aeon 信用卡積分",
+        "建行eye 信用卡",
+        "富邦信用卡迎新",
+        "信用卡 ok",
+        "香港日常買餸便利店信用卡"
+      ],
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "AEON 信用卡積分怎麼查詢和兌換最方便？",
+          "answer": "下載並登入『AEON 香港』官方手機 App，在積分專區即可實時查看各張卡片累積積分與即將到期分，直接線上換領 AEON 購物現金券或抵扣簽賬。"
+        },
+        {
+          "question": "建行（亞洲）eye 信用卡和內地中國建設銀行龍卡通用嗎？",
+          "answer": "兩者分別由中國建設銀行（亞洲）在香港發行與建設銀行在內地發行，積分池與 App（建行亞洲 App vs 建行手機銀行）各自獨立。"
+        }
+      ]
+    },
+    {
+      "slug": "icbc-singapore-ocbc-hk-crossborder-account-guide",
+      "url": "https://www.vooqqqm.com/guides/icbc-singapore-ocbc-hk-crossborder-account-guide.html",
+      "category": "hk-cards",
+      "categoryName": "香港信用卡與回贈",
+      "title": "中國工商銀行新加坡分行與華僑銀行（OCBC HK / SG）跨境賬戶科普：多幣種匯款、扣賬卡與管理費須知",
+      "summary": "針對跨境工作、留學與多元貨幣儲蓄需求，客觀梳理中國工商銀行新加坡分行（ICBC Singapore）及華僑銀行香港/新加坡（OCBC）的個人多幣種賬戶結構、集團內同名快匯、扣賬卡使用與最低結餘管理費規則。",
+      "keywords": [
+        "中国工商银行新加坡分行",
+        "中国工商银行新加坡",
+        "ocbc.com.hk",
+        "新加坡银行跨境汇款",
+        "多币种账户管理费"
+      ],
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "用內地工商銀行匯新元去中國工商銀行新加坡分行，怎麼買匯最划算？",
+          "answer": "在內地工行手機銀行直接購買『新加坡元（SGD）現匯』後透過工銀速匯同名匯出，可避免到了新加坡再用美元二次折算新元的雙重匯差。"
+        },
+        {
+          "question": "長期不去新加坡，工行新加坡賬戶怎麼防止變成休眠戶？",
+          "answer": "每半年內在手機銀行做一次小額外幣兌換、定期存款續存或與本地其他同名賬戶用 FAST/PayNow 轉動一筆小額資金即可保持活躍。"
+        }
+      ]
+    },
+    {
+      "slug": "overseas-credit-card-cashback-rules",
+      "url": "https://www.vooqqqm.com/guides/overseas-credit-card-cashback-rules.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "信用卡境外消费返现规则全拆解：报名制、达标门槛、MCC 码与入账时间差怎么看？",
+      "summary": "系统梳理银行信用卡境外消费返现的四大核心判定规则：先报名后消费机制、自然月与活动周期统计口径、交易日与记账日汇率时差，以及线上跨境商户与线下实体刷卡的分池计算逻辑。",
+      "keywords": [
+        "信用卡境外返现",
+        "境外消费返现规则",
+        "记账日与交易日",
+        "卡组织返现叠加",
+        "MCC商户类别码"
+      ],
+      "datePublished": "2026-07-12",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "境外刷支付宝或微信绑定信用卡，算境外线上还是线下消费？",
+          "answer": "取决于收单机构向卡组织上送的交易特征码。部分线下扫码会被识别为钱包类线上快捷交易，若银行条款注明“不含第三方支付账户绑定消费”，建议优先使用实体卡插卡、挥卡或 Apple Pay 拍卡。"
+        },
+        {
+          "question": "返现发放的外币刷卡金会自动抵扣人民币账单吗？",
+          "answer": "不同银行入账币种不同。双币/全币种卡常见以美元或人民币入账：人民币刷卡金可直接冲抵下期人民币欠款；美元刷卡金若当期无外币欠款，通常可在手机银行账单页申请溢缴款结汇或抵扣后续消费。"
+        }
+      ]
+    },
+    {
+      "slug": "wechat-lijianjin-stacking-and-refund-guide",
+      "url": "https://www.vooqqqm.com/guides/wechat-lijianjin-stacking-and-refund-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "微信立减金与支付满减券实操指南：叠加规则、退款退券机制与常见领券渠道梳理",
+      "summary": "详细解析银行微信立减金的卡包核销优先级、多张立减金能否合并使用、订单发生部分退款或全额取消时立减金是否退回，以及日常水电煤缴费、商超扫码的实用核销技巧。",
+      "keywords": [
+        "微信立减金怎么用",
+        "微信立减金退款会退回吗",
+        "银行立减金领取渠道",
+        "微信支付优惠叠加",
+        "信用卡立减金核销"
+      ],
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "为什么微信卡包里明明有券，付款时却显示灰色不可用？",
+          "answer": "请依次排查三点：① 当前选中的是该行信用卡还是储蓄卡（许多任务立减金仅限储蓄卡）；② 扣除商家优惠后的待支付金额是否精确大于门槛（例如满 10.01 元券，付 10.00 元无法触发）；③ 该商户是否被列入虚拟充值或风控白名单之外。"
+        },
+        {
+          "question": "如何查看自己名下快过期的全部银行立减金？",
+          "answer": "打开微信依次点击“我 → 卡包 → 券和礼品卡”，顶部默认会按距离到期时间从近到远排序，建议每周五检查一次，避免周末遗忘作废。"
+        }
+      ]
+    },
+    {
+      "slug": "card-networks-fx-and-dcc-fees-explained",
+      "url": "https://www.vooqqqm.com/guides/card-networks-fx-and-dcc-fees-explained.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "银联、Visa、Mastercard、运通四大卡组织跨境结算汇率与货币转换费避坑手册",
+      "summary": "对比银联、Visa、万事达与美国运通在非美元地区（日元、欧元、港币、泰铢）的清算路径差异，详解 1.5% 货币转换费（FCC）的减免逻辑与全币种卡选卡要点。",
+      "keywords": [
+        "货币转换费",
+        "银联Visa汇率对比",
+        "全币种信用卡",
+        "跨境刷卡手续费",
+        "外币清算路径"
+      ],
+      "datePublished": "2026-08-02",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "同一天刷银联和刷免货转费的 Visa 卡，哪个汇率绝对更划算？",
+          "answer": "两者在正常工作日点差往往在千分之二以内，互有胜负：汇率单边快速波动时，按“交易当日汇率锁定”的银联与按“记账日（晚 1-2 天）汇率结算”的国际卡会产生微小时间差，决定谁更划算的关键其实是哪张卡有额外返现活动。"
+        },
+        {
+          "question": "如何确认手里的信用卡是否免收 1.5% 货币转换费？",
+          "answer": "打开对应银行官网的《信用卡收费标准（价目表）》或卡片申请详情页，查找“跨境交易货币转换费/外汇兑换手续费”一栏，标注“暂免收取”或“0%”即可放心刷非美元币种。"
+        }
+      ]
+    },
+    {
+      "slug": "credit-card-billing-cycle-and-grace-period",
+      "url": "https://www.vooqqqm.com/guides/credit-card-billing-cycle-and-grace-period.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "信用卡账单日与还款日怎么规划最合理？免息期计算、容时容差政策与自动还款设置清单",
+      "summary": "用通俗实例讲清账单日当天消费与次日消费相差近 30 天免息期的原因，详解银行业协会自律公约下的“容时 3 天、容差 100 元”保护机制与多卡账单日错峰管理技巧。",
+      "keywords": [
+        "信用卡账单日和还款日",
+        "最长免息期怎么算",
+        "信用卡容时容差",
+        "账单日当天刷卡算哪期",
+        "自动还款设置"
+      ],
+      "datePublished": "2026-08-14",
+      "dateModified": "2026-11-20",
+      "faqs": [
+        {
+          "question": "账单日当天白天刷卡，到底算本期账单还是下期账单？",
+          "answer": "取决于银行系统的跑批切日时间与商户结算速度。同城线下消费或本行快捷支付很可能当天入账进入本期；而跨行或次日清算交易会落入下期。想要稳拿最长免息期，统一在“账单日第二天上午”再大额消费最稳妥。"
+        },
+        {
+          "question": "修改账单日一年可以改几次？",
+          "answer": "多数银行支持每半年或每自然年免费修改 1 次账单日，可在银行信用卡 App 的“卡片管理/账单设置”里自助申请，次月生效。"
+        }
+      ]
+    },
+    {
+      "slug": "unionpay-62-vip-and-card-points-comparison",
+      "url": "https://www.vooqqqm.com/guides/unionpay-62-vip-and-card-points-comparison.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "云闪付 62 会员、银行 App 任务中心与快捷支付积分规则对比：哪些日常消费没有积分？",
+      "summary": "梳理线上快捷支付时代信用卡攒积分的新变化，解析云闪付积点与 62VIP 回本账算法，以及线下刷卡零积分商户类别码（MCC）的常见类型。",
+      "keywords": [
+        "信用卡积分规则",
+        "哪些消费没有信用卡积分",
+        "云闪付62会员划算吗",
+        "微信支付宝信用卡积分",
+        "MCC码查询"
+      ],
+      "datePublished": "2026-08-26",
+      "dateModified": "2026-11-19",
+      "faqs": [
+        {
+          "question": "怎么知道某一笔线下刷卡为什么没给积分？",
+          "answer": "在云闪付 App 绑定该信用卡后查看对应交易详情，或咨询发卡行在线客服查询该笔交易的 15 位商户编号（第 8 至 11 位即为 4 位 MCC 码），对照银行官网《不累计积分商户类别表》即可一目了然。"
+        },
+        {
+          "question": "信用卡积分快过期了怎么处理最稳妥？",
+          "answer": "优先兑换银行 App 内的还款签账额、微信立减金或合作航司里程；尽量避开积分商城里标价虚高的小家电贴钱换购。"
+        }
+      ]
+    },
+    {
+      "slug": "annual-fee-waiver-and-card-selection-math",
+      "url": "https://www.vooqqqm.com/guides/annual-fee-waiver-and-card-selection-math.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "酒店联名卡、航司联名卡与标准返现信用卡怎么选？年费减免条件与权益回本测算方法",
+      "summary": "建立理性的持卡精简模型：用年实际刚需消费额倒推里程卡、酒店卡与无脑返现卡的真实净收益，避免因凑刷免年费而产生非理性消费。",
+      "keywords": [
+        "信用卡怎么选",
+        "信用卡年费减免规则",
+        "航司联名卡划算吗",
+        "返现卡与里程卡对比",
+        "持卡精简攻略"
+      ],
+      "datePublished": "2026-09-05",
+      "dateModified": "2026-11-21",
+      "faqs": [
+        {
+          "question": "年费已经被扣除了还能补救退回吗？",
+          "answer": "如果是刷卡次数未达标产生的首年/次年弹性年费，出账后第一时间致电信用卡客服，多数银行支持申请“限期补刷指定笔数后退还已扣年费”；但明确标注不可减免的刚性年费卡一经激活扣费通常不予退还。"
+        },
+        {
+          "question": "一般家庭日常留几张信用卡最省心？",
+          "answer": "“2 到 3 张”是兼顾优惠覆盖与管理精力的黄金数量：1 张境内微信/支付宝主力综合卡 + 1 张免货币转换费的境外全币种卡（如 Visa/万事达）+ 1 张本地高频商超/加油活动卡即可。"
+        }
+      ]
+    },
+    {
+      "slug": "subscription-auto-renewal-and-dispute-guide",
+      "url": "https://www.vooqqqm.com/guides/subscription-auto-renewal-and-dispute-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "线上订阅服务绑卡扣费管理：预授权验证、自动续费关闭与境外盗刷争议处理流程",
+      "summary": "针对海外 AI 工具、云服务、流媒体与手机应用免费试用转自动续费的常见扣款问题，提供完整的订阅排查路径、单卡锁卡限额设置与争议拒付（Chargeback）自救步骤。",
+      "keywords": [
+        "自动续费怎么关闭",
+        "信用卡被莫名扣美元",
+        "1美元预授权验证",
+        "信用卡盗刷处理流程",
+        "境外无卡支付锁卡"
+      ],
+      "datePublished": "2026-09-18",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "忘记取消免费试用被扣了一整年会员费，还能申请退款吗？",
+          "answer": "扣款发生后 24～48 小时内且尚未使用新周期权益的，无论是通过 Apple 官方报告问题页面（reportaproblem.apple.com）还是直接给海外软件官方客服发邮件说明误触续费，首次礼貌沟通成功全额退款的概率相当高。"
+        },
+        {
+          "question": "为了防自动续费，直接把信用卡锁卡能代替取消订阅吗？",
+          "answer": "不能代替正式取消。锁卡只会让商户连续扣款失败，部分平台在多次重试失败后会冻结账号甚至保留欠费追缴记录，正规做法仍是回到原平台点击 Cancel Subscription。"
+        }
+      ]
+    },
+    {
+      "slug": "credit-card-installment-true-apr-calculation",
+      "url": "https://www.vooqqqm.com/guides/credit-card-installment-true-apr-calculation.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "信用卡分期真实费率怎么算？“月手续费率”折算近似年化成本（IRR）原理与提前结清说明",
+      "summary": "揭开账单分期“每月仅 0.6% 手续费”背后的资金占用递减原理，教你核对银行明示的近似折算年化利率，以及提前还款时剩余未收手续费的处理规则。",
+      "keywords": [
+        "信用卡分期真实利率",
+        "月费率折算年化利率",
+        "账单分期提前还款手续费",
+        "IRR内部收益率计算",
+        "免息分期注意事项"
+      ],
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-11-18",
+      "faqs": [
+        {
+          "question": "偶尔办一次信用卡分期，有助于提升信用卡固定额度吗？",
+          "answer": "理性用卡切忌“为了提额硬交高额手续费”。银行授信审批综合考察收入稳定性、负债率与履约记录，真实多元的日常消费与按时全额还款本身就能稳步积累良好信用，完全没必要花冤枉钱养卡。"
+        },
+        {
+          "question": "最低还款额和账单分期哪个成本更高？",
+          "answer": "最低还款额一般按日利率万分之五（折合年化约 18.25%）且通常从消费记账日起全额计息、按月复利滚动，综合资金成本普遍高于有折扣券的账单分期；短期周转优先选低费率折扣分期并尽快结清。"
+        }
+      ]
+    },
+    {
+      "slug": "supplementary-credit-card-family-travel-guide",
+      "url": "https://www.vooqqqm.com/guides/supplementary-credit-card-family-travel-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "信用卡附属卡（副卡）使用指南：额度共享机制、境外留学与家庭出行限额管理",
+      "summary": "详解主卡与附属卡在授信额度、账单归集、信用记录归属、年费政策及贵宾厅权益共享上的规则，帮助家庭出行与子女海外求学建立安全可控的支付方案。",
+      "keywords": [
+        "信用卡附属卡怎么用",
+        "留学信用卡副卡推荐",
+        "主卡副卡额度共享",
+        "附属卡征信算谁的",
+        "副卡消费限额设置"
+      ],
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-11-20",
+      "faqs": [
+        {
+          "question": "附属卡能在微信和支付宝上绑定给家人自己扫码用吗？",
+          "answer": "完全可以。由于附属卡卡面印的是家人本人的姓名拼音且对应其本人身份证件，家人可正常绑定在自己实名认证的微信、支付宝或 Apple Wallet 中日常使用。"
+        },
+        {
+          "question": "主卡注销后，附属卡还能继续单独保留吗？",
+          "answer": "不能。附属卡依附于主卡账户存在，一旦同卡种主卡办理销卡，名下关联的附属卡会同步自动失效。"
+        }
+      ]
+    },
+    {
+      "slug": "major-banks-wechat-alipay-pdd-douyin-limits",
+      "url": "https://www.vooqqqm.com/guides/major-banks-wechat-alipay-pdd-douyin-limits.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "六大行与招行绑微信、支付宝、拼多多、抖音、美团、京东支付限额速查表与提额路径",
+      "summary": "汇总工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行及招商银行借记卡/信用卡在微信支付、支付宝、拼多多、抖音支付、美团与京东的常见单笔与日累计快捷支付限额，附手机银行一键调高限额步骤。",
+      "keywords": [
+        "交行 拼多多 限额",
+        "邮储 美团 限额",
+        "农行 拼多多 限额",
+        "邮储 微信 限额",
+        "农行 支付宝 限额",
+        "交行 抖音 限额",
+        "银行 京东 限额",
+        "中行 拼多多 限额",
+        "招行 美团 限额",
+        "邮储 抖音 限额"
+      ],
+      "datePublished": "2026-09-10",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "在手机银行已经把快捷支付限额调到 5 万了，为什么付款 6,000 元还是提示超限？",
+          "answer": "说明卡在了更底层的『银行卡非柜面总限额』上！去手机银行搜索『非柜面支出限额』查看当前日限额是不是被系统设成了 5,000 元，大部分银行现已支持上传消费凭证并通过人脸识别在线申请调高非柜面额度。"
+        },
+        {
+          "question": "用本站哪个工具可以快速查具体某家银行配某个平台的处理路径？",
+          "answer": "可直接打开本站工具箱内的《银行快捷支付限额与风控速查器》（/tools/payment-limit-checker.html），点选对应银行与平台即出操作指引。"
+        }
+      ]
+    },
+    {
+      "slug": "bank-card-payment-risk-control-unblock-guide",
+      "url": "https://www.vooqqqm.com/guides/bank-card-payment-risk-control-unblock-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "工行、农行、邮储、交行、中行、招行在微信/支付宝/美团/拼多多提示“风控拦截/支付失败”怎么解除？",
+      "summary": "针对高频出现的“工行微信风控、农行支付宝风控、邮储美团/拼多多风控、中行京东支付失败、招行美团风控”等交易拦截提示，分清平台侧风控与发卡行反诈风控，给出 3 分钟自助核身解封全流程。",
+      "keywords": [
+        "工行 微信 风控",
+        "农行 支付宝 风控",
+        "邮储 美团 风控",
+        "交行 微信 风控",
+        "招行 美团 风控",
+        "邮储 支付宝 风控",
+        "中行 京东 失败",
+        "中行 微信 风控",
+        "邮储 拼多多 风控"
+      ],
+      "datePublished": "2026-09-22",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "如果没收到银行确认短信，银行卡显示“只收不付（暂停非柜面）”怎么办？",
+          "answer": "先打开该行手机银行查看『账户状态/限额管理』是否有线上刷脸自助解控入口；若提示需柜面核实，携带本人身份证、实体银行卡及近期正常消费订单截图前往就近网点人工核实即可恢复。"
+        },
+        {
+          "question": "信用卡在美团或拼多多刷不过，会影响个人征信吗？",
+          "answer": "完全不会！风控拦截仅仅是银行或平台出于保护持卡人资金安全而暂拒该笔可疑交易，与逾期违约毫无关系，绝不会产生不良征信记录。"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-check-and-raise-bank-payment-limits",
+      "url": "https://www.vooqqqm.com/guides/how-to-check-and-raise-bank-payment-limits.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "银行卡“支付额度怎么查询与修改”？储蓄卡非柜面限额、快捷限额与信用卡可用额度三层拆解",
+      "summary": "手把手教你查询自己银行卡的真实可支付额度：如何在一分钟内查清微信/支付宝年度 20 万零钱限额、储蓄卡一二类账户日限额以及手机银行非柜面限额。",
+      "keywords": [
+        "支付额度怎么查询",
+        "非柜面限额怎么查询",
+        "微信支付年度限额20万",
+        "银行卡限额怎么调高",
+        "一类卡二类卡限额区别"
+      ],
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "信用卡也有“非柜面限额”吗？",
+          "answer": "信用卡不属于个人结算储蓄账户，不受储蓄卡非柜面防诈日限额限制！信用卡能不能刷过，主要取决于你的**当前剩余可用授信额度**以及你自己设定的单笔网上交易开关限额。"
+        },
+        {
+          "question": "调整手机银行支付限额收费吗？多久生效？",
+          "answer": "在各大银行官方 App 自助查询或修改快捷支付限额完全免费，人脸识别及短信验证通过后实时秒级生效。"
+        }
+      ]
+    },
+    {
+      "slug": "china-mastercard-icbc-debit-cmb-guide",
+      "url": "https://www.vooqqqm.com/guides/china-mastercard-icbc-debit-cmb-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "全新中国万事达卡（工商银行万事达借记卡、招商银行万事达卡）境内外一卡通用实测与返现指南",
+      "summary": "解析万事网联开业后推出的全新“中国万事达卡”双应用芯片技术：详解工商银行万事达借记卡（含热门卡面申领）与招商银行万事达信用卡在境内刷人民币、境外海淘免转费刷外币的实操体验。",
+      "keywords": [
+        "工商银行万事达借记卡",
+        "招商银行万事达卡",
+        "工商银行 借记卡",
+        "工商银行借记卡卡面",
+        "全新中国万事达卡怎么用"
+      ],
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "手头以前办的老款单标万事达信用卡会自动升级成境内能刷的新版吗？",
+          "answer": "部分银行支持在到期续卡或手机银行点击『一键升级全新中国万事达卡』换发新双应用芯片卡，未换发老芯片前境内仍以绑微信/支付宝扫码为主。"
+        },
+        {
+          "question": "工行万事达借记卡是一类卡还是二类卡？",
+          "answer": "如果你此前名下还没有任何工商银行储蓄卡，首张开立即为全功能一类卡；若名下已有工行一类工资卡，新线上申领默认多为二类卡（日限额 1 万元），大额境外消费前可在 App 或柜面做一二类卡互换。"
+        }
+      ]
+    },
+    {
+      "slug": "jd-presale-deposit-unionpay-discount-rules",
+      "url": "https://www.vooqqqm.com/guides/jd-presale-deposit-unionpay-discount-rules.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "京东预售付定金与尾款能用中国银联/云闪付立减吗？大促合并付款与银行满减触发规则详解",
+      "summary": "解答双十一、618 与黑五网购高频疑问：“京东定金能用中国银联吗？京东支付选银联怎么触发银行满减？”讲清预售定金锁单机制、尾款合并凑单收银台通道差异与立减退差规则。",
+      "keywords": [
+        "京东定金能用中国银联吗",
+        "京东 支付 银联",
+        "京东云闪付满减怎么用",
+        "京东尾款银行卡优惠",
+        "银联在线立减规则"
+      ],
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "用京东 E 卡抵扣了一半尾款后，剩下的一半还能享受中国银联或银行卡满减吗？",
+          "answer": "完全可以！银行收银台只看你**扣除京豆、优惠券和京东 E 卡之后，最后实际需要刷银行卡支付的那部分净尾款金额**，只要净刷卡额仍大于等于银行满减门槛即可触发。"
+        },
+        {
+          "question": "付尾款时没显示银行立减就付完了，能找客服补返差价吗？",
+          "answer": "不能。所有银行收银台立减均实行实时名额扣减制，付款页未显示立减即代表当日名额已抢完或卡种不符，事后无法人工补退差额。"
+        }
+      ]
+    },
+    {
+      "slug": "popular-cobranded-and-regional-cards-guide",
+      "url": "https://www.vooqqqm.com/guides/popular-cobranded-and-regional-cards-guide.html",
+      "category": "cards",
+      "categoryName": "信用卡与支付攻略",
+      "title": "特色联名卡与城商行权益盘点：农行车主/京东卡、广发周五遇八有礼、中信动卡空间、华夏与广州银行信用卡",
+      "summary": "梳理近期搜索热度较高的国内特色信用卡玩法：农业银行车主卡加油与京东 PLUS 联名卡、广发淘宝联名卡周五逢 8 活动、中信银行动卡空间 9 分享兑、华夏银行信用卡新户礼及广州银行信用卡粤港澳本地优惠。",
+      "keywords": [
+        "办理华夏银行信用卡送什么",
+        "广州银行信用卡",
+        "动卡空间",
+        "农业银行京东plus联名信用卡",
+        "农业银行安邦车主信用卡",
+        "广发淘宝联名信用卡金卡周五遇八有礼",
+        "餐饮消费券"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-11-25",
+      "faqs": [
+        {
+          "question": "之前办的老联名卡（比如已停发的旧车主卡或旧淘宝卡）到期了怎么办？",
+          "answer": "联名协议到期或卡产品停发后，卡片到期续卡时银行通常会根据监管规定为你自动换发同等级的标准银联/双标信用卡，原账户额度、积分与还款绑定关系平滑继承不受影响。"
+        },
+        {
+          "question": "为了拿新户开卡礼办卡，怎么确认自己算不算“新客户”？",
+          "answer": "各银行对新户定义略有差异：多数银行规定『从未持有过本行任何信用卡主卡，或名下所有本行信用卡销户已满 12 个月（部分银行为 6 个月或终身仅限一次）』方算新户，填表前看一眼活动底部的《新客户定义条款》最稳妥。"
+        }
+      ]
+    },
+    {
+      "slug": "cross-border-payment-connect-vs-wire-transfer",
+      "url": "https://www.vooqqqm.com/guides/cross-border-payment-connect-vs-wire-transfer.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "跨境支付通与传统电汇跨境转账有什么不一样？到账时效、手续费与适用场景对比",
+      "summary": "详细对比内地与香港互联互通下的“跨境支付通”快速汇款机制与传统 SWIFT 银行电汇在填写信息、中转行手续费、到账速度及日常小额生活汇款场景上的核心差异。",
+      "keywords": [
+        "跨境支付通",
+        "跨境转账区别",
+        "香港汇款到内地",
+        "内地汇款到香港手续费",
+        "转数快FPS互联"
+      ],
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "所有内地银行和香港银行都开通跨境支付通了吗？",
+          "answer": "首批以两地主流全国性国有大行、头部股份制银行及香港主要零售银行（如中银香港、汇丰香港、恒生、工银亚洲、建行亚洲、东亚及多家数字银行）试点接入并持续扩容，可在各自手机银行搜索“跨境支付通”查看入口。"
+        },
+        {
+          "question": "同一银行集团（如内地中行汇中银香港）用哪个更划算？",
+          "answer": "两类通道目前往往都免费。小额几千港币用跨境支付通到账最快；单笔金额超出快速通道单日上限时，切回集团内同名快汇同样可免电报费。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-multicurrency-debit-card-usage-guide",
+      "url": "https://www.vooqqqm.com/guides/hk-multicurrency-debit-card-usage-guide.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "香港多币种万事达扣账卡（蓝狮子等）使用指南：12 币种扣款逻辑、ATM 取现与限额设置",
+      "summary": "以香港主流多币种万事达借记卡（扣账卡）为例，详解外币账户余额直扣机制、不足时港币自动补足规则、全球 ATM 免手续费取现范围及手机 App 安全限额管理。",
+      "keywords": [
+        "香港多币种扣账卡",
+        "汇丰蓝狮子卡怎么用",
+        "万事达扣账卡汇率",
+        "香港借记卡海外取现",
+        "多币种账户直扣规则"
+      ],
+      "datePublished": "2026-07-06",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "多币种扣账卡需要缴年费或最低存款管理费吗？",
+          "answer": "主流香港零售银行的普通多币种万事达扣账卡目前普遍免收年费、无发卡工本费，也无单独的最低持卡消费笔数要求。"
+        },
+        {
+          "question": "如果外币子账户里只有 50 美元，却刷了一笔 80 美元的账单会怎样？",
+          "answer": "视具体发卡行规则而定：部分银行支持“组合扣款”（先扣光 50 美元，剩余 30 美元自动从港币户换汇补足）；也有部分银行要求单一子账户足额，若美元户不足 80 美元则整笔直接改由港币户全额换汇扣款。提前在 App 里兑好足额外币最直观。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-bank-account-maintenance-and-compliance",
+      "url": "https://www.vooqqqm.com/guides/hk-bank-account-maintenance-and-compliance.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "香港银行个人账户日常维护与合规用卡须知：不动户管理、FPS 转账边界与常见风控预防",
+      "summary": "总结跨境持卡人维护香港个人银行账户的健康习惯：如何避免触发 12 至 24 个月休眠不动户冻结、快转（FPS）高频陌生往来的合规红线，以及证件与税务资料更新提醒。",
+      "keywords": [
+        "香港银行账户维护",
+        "香港银行不动户激活",
+        "港卡风控怎么避免",
+        "FPS转数快注意事项",
+        "香港银行合规用卡"
+      ],
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "仅仅登录香港银行 App 看看余额，算保持账户活跃吗？",
+          "answer": "不算！绝大多数银行判定“不动户”看的是有无持卡人主动发起的账务变动（系统自动派发几分钱活期利息也不算主动交易）。最简单的保活方式是在本人两家香港银行之间用 FPS 互转 100 港币，或在便利店/线上刷一笔几港币的真实消费。"
+        },
+        {
+          "question": "账户如果不小心变成休眠不动户（Dormant）了怎么恢复？",
+          "answer": "部分银行支持在手机银行通过流动保安编码与人脸核验自助重开，或致电官方客服核身激活；若冻结时间过长（如超过 2 年），则可能需要下次赴港时携带身份证与通行证到任一分行柜台办理解冻。"
+        }
+      ]
+    },
+    {
+      "slug": "mainland-hk-swift-remittance-step-by-step",
+      "url": "https://www.vooqqqm.com/guides/mainland-hk-swift-remittance-step-by-step.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "内地与香港同名跨境电汇全流程拆解：SWIFT 代码、中转行扣费与材料留存规范",
+      "summary": "一步步讲清通过手机银行办理同名跨境港币/美元现汇电汇的标准填表规范：如何区分 SHA/OUR 费用承担方式、准确填写香港银行地区码与分行号，避免因格式错误被退汇扣费。",
+      "keywords": [
+        "跨境电汇填写教程",
+        "SWIFT代码查询",
+        "同名跨境汇款手续费",
+        "香港银行账户号码格式",
+        "中转行费用SHA和OUR"
+      ],
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-11-21",
+      "faqs": [
+        {
+          "question": "万一账号填错一位被退汇了，本金安全吗？",
+          "answer": "本金是安全的，香港收款行无法入账后会将原款沿原路径退回内地汇出行账户；但去程与回程已经消耗的电报费、中转行处理费（往往合计一两百港元）不会退还，因此首次汇新账户建议先小额测试确认路径通畅。"
+        },
+        {
+          "question": "汇款发出后多久能查到进度？",
+          "answer": "工作日白天提交的合规同名电汇，快则当天下午、慢则次日到账；目前主流大行手机银行均内置“SWIFT GPI 全球汇款追踪”进度条，可实时看到款项停留在汇出行、中转行还是已入收款行。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-travel-payment-methods-comparison",
+      "url": "https://www.vooqqqm.com/guides/hk-travel-payment-methods-comparison.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "赴港消费支付方式全对比：八达通、内地支付宝/微信、银联与手机拍卡乘车实测要点",
+      "summary": "去香港旅游到底要不要换大量港币现金？横向测评港铁/巴士/叮叮车/茶餐厅/大型商场五大场景下，手机八达通、二维码乘车码、信用卡挥卡与内地移动支付的便利度和汇率表现。",
+      "keywords": [
+        "去香港旅游怎么支付划算",
+        "手机八达通怎么开通",
+        "香港地铁怎么刷卡",
+        "香港刷支付宝汇率",
+        "去香港换多少港币现金"
+      ],
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "在香港坐地铁，一张信用卡或一部手机可以连拍两个人进站吗？",
+          "answer": "不可以！港铁和巴士采用“一卡一人进出配对计费”，同一张实体信用卡或同一个手机虚拟卡号不能帮同行伙伴连刷；但同一张实体卡和绑定在手机 Apple Pay 里的同一张卡因设备卡号不同，理论上视为两个独立介质。给同行老人小孩单独扫乘车码或备一张八达通最省心。"
+        },
+        {
+          "question": "去香港 ATM 取港币每次取多少合适？",
+          "answer": "香港 ATM 常见提供 100 港元和 500 港元纸币。尽量避免取 1,000 港元大钞（俗称“金牛”），许多便利店和茶餐厅拒收千元钞；在 ATM 输入如 400 港元或 800 港元即可确保吐出 100 港元零钞。"
+        }
+      ]
+    },
+    {
+      "slug": "macau-travel-payment-and-hotel-deposit-guide",
+      "url": "https://www.vooqqqm.com/guides/macau-travel-payment-and-hotel-deposit-guide.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "澳门出行支付与用卡攻略：银联闪付、微信支付宝商圈立减与酒店押金预授权解冻周期说明",
+      "summary": "解析澳门元（MOP）、港币与人民币在澳门日常消费中的“1:1 找赎”潜规则、公交车乘车支付方式，以及度假村酒店入住押金预授权原路释放的时间周期。",
+      "keywords": [
+        "去澳门怎么付钱划算",
+        "澳门刷卡用什么卡",
+        "澳门酒店押金多久退回",
+        "澳门公交怎么扫码",
+        "澳门元港币区别"
+      ],
+      "datePublished": "2026-09-01",
+      "dateModified": "2026-11-20",
+      "faqs": [
+        {
+          "question": "去澳门完全不换澳门元现金可以吗？",
+          "answer": "如果只逛大三巴、官也街、各大综合度假村商场和连锁餐饮，一部手机加一张信用卡可覆盖 95% 场景；唯有坐澳门街头的士或光顾个别传统老铺可能需要一两百港币或澳门元零钱备用。"
+        },
+        {
+          "question": "澳门购物有离境退税吗？",
+          "answer": "澳门本身就是自由港免税地区，绝大多数日常零售商品原本就不征收增值税或消费税，因此没有像日本或欧洲那样的机场退税流程。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-fps-fast-payment-system-guide",
+      "url": "https://www.vooqqqm.com/guides/hk-fps-fast-payment-system-guide.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "香港银行 FPS「转数快」怎么用？手机号/电邮默认收款行绑定、跨行秒到限额与账单缴费实操",
+      "summary": "手把手讲透香港金融管理局推出的实时跨行转账基础设施 FPS（Faster Payment System）：识别码绑定方法、更改默认收款银行步骤以及跨行港币与人民币免手续费秒转技巧。",
+      "keywords": [
+        "香港转数快怎么用",
+        "FPS识别码是什么",
+        "转数快修改默认收款银行",
+        "香港跨行转账手续费",
+        "FPS缴费二维码"
+      ],
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-11-19",
+      "faqs": [
+        {
+          "question": "怎么修改同一个手机号关联的“预设（默认）收款银行”？",
+          "answer": "打开你希望设为新默认的香港银行 App，进入“设定 → 转数快（FPS）账户绑定/登记”，找到你的手机号点击“设为预设收款银行”确认即可实时覆盖生效，无需去旧银行先解绑。"
+        },
+        {
+          "question": "用 FPS 跨行转离岸人民币（CNH）收手续费吗？",
+          "answer": "个人用户通过手机银行 FPS 在香港本地参与银行之间互转港币或人民币，目前行业普遍全免手续费且实时入账。"
+        }
+      ]
+    },
+    {
+      "slug": "overseas-atm-cash-withdrawal-fees-guide",
+      "url": "https://www.vooqqqm.com/guides/overseas-atm-cash-withdrawal-fees-guide.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "海外 ATM 外币取现手续费怎么算？发卡行取现费、当地 ATM 附加费（Surcharge）与省钱技巧",
+      "summary": "拆解在泰国、日本、欧美用银行卡 ATM 取现时容易被忽视的“双向收费”结构，教你分清银联储蓄卡与信用卡取现的本质区别，避开 ATM 屏幕上的汇率转换陷阱。",
+      "keywords": [
+        "境外ATM取现手续费",
+        "银联卡海外取现",
+        "日本711取现手续费",
+        "泰国ATM取现220泰铢",
+        "信用卡境外取现利息"
+      ],
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "银联储蓄卡在境外 ATM 每年最多能取多少外币现钞？",
+          "answer": "根据国家外汇管理局现行个人境外取现管理规定，个人持境内银行卡在境外提取现金，本人名下所有境内银行卡（含附属卡）合计每个自然年度不得超过等值 10 万元人民币，每日取现限额一般为等值 1 万元人民币。一旦当年超限，次年也将被暂停境外取现资格，切记合规使用。"
+        },
+        {
+          "question": "如果在海外 ATM 发生吞卡怎么办？",
+          "answer": "立即拍下 ATM 机身编号与所属银行客服电话，在原地先通过手机银行把该储蓄卡临时挂失锁定，再按机身电话联系网点或发卡行处理。"
+        }
+      ]
+    },
+    {
+      "slug": "prevent-card-block-while-traveling-abroad",
+      "url": "https://www.vooqqqm.com/guides/prevent-card-block-while-traveling-abroad.html",
+      "category": "cross-border",
+      "categoryName": "港澳与跨境支付",
+      "title": "跨境旅行常见卡片锁卡与风控如何预防？出行前报备、漫游短信接收与双卡备份方案",
+      "summary": "出国刷第一笔卡就被风控拦截拒付怎么办？整理出发前 5 分钟必做的银行 App 报备清单、海外接收 3DS 动态验证码设置，以及“不同发卡行 + 不同卡组织”黄金组合策略。",
+      "keywords": [
+        "境外刷卡被拒付怎么办",
+        "出国信用卡出行报备",
+        "海外收不到银行验证码",
+        "3DS验证是什么",
+        "出国带几张卡合适"
+      ],
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "用 eSIM 上网还能正常收国内银行验证码短信吗？",
+          "answer": "完全可以，这也是目前双卡/eSIM 手机最推荐的出国配置：主卡槽保留国内原手机号（关闭其“数据漫游”开关防止跑流量，仅保留信号收短信），副卡或 eSIM 启用当地流量套餐上网，两不耽误。"
+        },
+        {
+          "question": "国外自助机要求输 4 位 PIN 码，可国内信用卡密码是 6 位怎么办？",
+          "answer": "多数支持国际 EMV 标准的全币种芯片卡可直接输入国内设置的 6 位交易密码（或尝试无密直接按绿色确认键 Enter）；若经常前往北欧或法国自助收费站，出发前可咨询发卡行是否支持设置境外芯片 PIN。"
+        }
+      ]
+    },
+    {
+      "slug": "hk-airport-departure-tax-refund-guide",
+      "url": "https://www.vooqqqm.com/guides/hk-airport-departure-tax-refund-guide.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "香港国际机场飞机乘客离境税退税全攻略：豁免条件、准备材料与线上/柜台申办流程",
+      "summary": "详解经深圳湾、高铁西九龙或港珠澳大桥入境香港后“同一天内”乘机离港旅客如何合规申领香港飞机乘客离境税退税，梳理机票税费明细识别、电子申请通道与到账方式。",
+      "keywords": [
+        "香港机场离境税退税",
+        "飞机乘客离境税线上申请",
+        "同一天经香港转机退税",
+        "香港离境税多少钱",
+        "香港机场退税柜台位置"
+      ],
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "在携程、飞猪或航司 App 买的机票，去哪里找带“HK 税项明细”的凭证？",
+          "answer": "普通订单截图只显示“总税费 ¥XXX”是不够的，需要在购票 App 的“报销凭证/国际机票行程单（英文版或详细税费版）”发送到邮箱，打开 PDF 看到类似 HKD 120 HK 或 HKD 200 HK 的分项拆解明细即可上传。"
+        },
+        {
+          "question": "回程从海外飞抵香港机场、当天直接坐大巴回深圳，有离境税可退吗？",
+          "answer": "没有。该税项仅针对“从香港乘飞机离开”的离港航段征收，飞抵香港落地的进港航班本来就不收这项税。"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-shenzhen-to-hk-airport-transit-guide",
+      "url": "https://www.vooqqqm.com/guides/guangzhou-shenzhen-to-hk-airport-transit-guide.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "珠三角（广州/深圳）前往香港国际机场乘机全流程：高铁、深圳湾大巴与琶洲/蛇口快船对比",
+      "summary": "实测对比大湾区居民赴香港国际机场搭国际航班的三条主流路线：广州琶洲/深圳蛇口海天码头直挂行李快船、广深港高铁转机场快线，以及深圳湾口岸商务七座车/跨境巴士的时间与费用。",
+      "keywords": [
+        "广州怎么去香港机场最方便",
+        "深圳湾到香港机场多久",
+        "蛇口码头去香港机场退税",
+        "琶洲港去香港机场攻略",
+        "西九龙到香港机场快线"
+      ],
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "哪些航空公司不支持蛇口/琶洲码头快船上游值机？",
+          "answer": "快船海天中转大楼仅服务于加入了空海联运协议的航空公司（如国泰、香港航空、香港快运、全日空、日航、新航等数十家主流航司），部分超低成本航司或包机不在名单内，买船票前务必核对码头小程序公示的“支持航司列表”及最短开船衔接时间。"
+        },
+        {
+          "question": "深夜落地香港国际机场还有车回深圳或广州吗？",
+          "answer": "晚上 23:00 后高铁与快船已停航，但香港机场地面运输中心通宵或至凌晨均有前往皇岗口岸（24 小时通关口岸）的跨境直通巴士及商务七座车，提前查好末班时刻即可。"
+        }
+      ]
+    },
+    {
+      "slug": "japan-independent-travel-esim-suica-checklist",
+      "url": "https://www.vooqqqm.com/guides/japan-independent-travel-esim-suica-checklist.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "日本自由行行前准备清单：电子签证核验、流量卡/eSIM、西瓜卡绑定与交通支付实用经验",
+      "summary": "从出发前 Visit Japan Web 填报、iPhone 绑定 Suica/ICOCA 交通卡充值，到新干线大件行李预约、便利店取现与药妆百货折上折支付技巧的一站式行前指南。",
+      "keywords": [
+        "日本自由行准备清单",
+        "iPhone怎么绑西瓜卡Suica",
+        "Visit Japan Web填写注意事项",
+        "日本旅游带多少日元现金",
+        "日本刷卡用什么卡"
+      ],
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "东京开的 Suica 西瓜卡到了京都、大阪、北海道还能继续刷吗？",
+          "answer": "完全通用！日本全国十大交通 IC 卡早已实现互联互通，一张东京 Suica 可以在大阪坐地铁、在京都坐巴士、在札幌便利店买水，无需每换一座城市重买新卡。"
+        },
+        {
+          "question": "日本餐厅吃饭需要给小费吗？",
+          "answer": "日本完全没有小费文化，账单已含 10% 消费税（部分夜间居酒屋会明码标收一碟几百日元的餐前小菜费 Otoshi，属正常行规），按账单金额原价结账即可。"
+        }
+      ]
+    },
+    {
+      "slug": "japan-tax-free-shopping-rules-update",
+      "url": "https://www.vooqqqm.com/guides/japan-tax-free-shopping-rules-update.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "日本购物退税（Tax-Free）实操手册：一般物品与消耗品封装规定、护照核验与机场检查要点",
+      "summary": "厘清日本 10% 消费税免税购物的满 5,000 日元不含税门槛、药妆食品防拆封透明袋规则、百货商场扣除退税手续费计算方式，以及未来“先征后机场退”制度过渡期注意事项。",
+      "keywords": [
+        "日本购物退税攻略",
+        "日本免税袋拆了怎么办",
+        "日本百货退税手续费",
+        "日本退税满多少日元",
+        "机场海关退税检查"
+      ],
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "装在防拆封透明免税袋里的化妆水超过 100ml，不能手提上飞机怎么办？",
+          "answer": "液体类免税消耗品应当**连同完好未拆封的免税袋一起塞进行李箱办理托运**！在机场先去海关电子终端刷一下护照完成离境免税申报（若海关官员要求抽查大额物品，在值机托运前主动告知航司柜台有大额免税液体需海关先验视），切勿自己手撕防拆胶条分装。"
+        },
+        {
+          "question": "听说明后年日本退税要改成“市内先含税买单、去机场统一退税”，现在去受影响吗？",
+          "answer": "日本税制改革新规自 2026 年 11 月起逐步切换上线机场退税核验机制，过渡及正式实施期间更要保留好电子购买凭证并在前往机场时多预留 30～45 分钟过机核验时间，切勿卡点到机场。"
+        }
+      ]
+    },
+    {
+      "slug": "europe-schengen-tax-refund-global-blue-planet",
+      "url": "https://www.vooqqqm.com/guides/europe-schengen-tax-refund-global-blue-planet.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "欧洲申根区购物退税指南：Global Blue 与 Planet 退税单填写、海关盖章与退卡避坑对比",
+      "summary": "一次性理清多国连游欧洲时“最后一个离开欧盟申根国的机场才盖海关章”的铁律，对比退信用卡、退支付宝与机场领欧元现金的实际到手金额差异。",
+      "keywords": [
+        "欧洲退税全攻略",
+        "申根最后一站退税规则",
+        "Global Blue环球蓝联退税",
+        "退税选现金还是信用卡",
+        "瑞士是不是欧盟退税国"
+      ],
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-11-20",
+      "faqs": [
+        {
+          "question": "帮家人付钱买的东西，能写我的名字办退税吗？",
+          "answer": "欧洲商店开具退税单只认护照：可以刷同行家人的卡付款，但退税单上的申请人信息（姓名、护照号、国内常住地址）必须与**最后亲自带着这件商品在机场过海关盖章的本人护照**一致。"
+        },
+        {
+          "question": "法国、意大利退税最低消费门槛是多少？",
+          "answer": "各国起点不同且偶有微调：例如法国同一天同一店需满 100.01 欧元、意大利目前已降至约 70.01 欧元、西班牙甚至无最低门槛（0 欧元起即可开单），结账前问一句“Tax Free minimum?”最稳妥。"
+        }
+      ]
+    },
+    {
+      "slug": "korea-travel-wowpass-tax-refund-guide",
+      "url": "https://www.vooqqqm.com/guides/korea-travel-wowpass-tax-refund-guide.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "韩国首尔与济州出行支付与退税攻略：T-money 交通卡、移动扫码立减与市区即时退税流程",
+      "summary": "梳理韩国高达 98% 刷卡普及率环境下的最优支付组合：Olive Young 与免税店现场直减退税（Instant Tax Refund）限额、便利店扫码立减及仁川机场自助退税机流程。",
+      "keywords": [
+        "韩国旅游支付攻略",
+        "Olive Young即时退税",
+        "韩国用WOWPASS还是信用卡",
+        "仁川机场退税流程",
+        "首尔地铁怎么刷卡"
+      ],
+      "datePublished": "2026-09-08",
+      "dateModified": "2026-11-21",
+      "faqs": [
+        {
+          "question": "网红推荐的韩国 WOWPASS 预付卡有必要专门办一张吗？",
+          "answer": "如果你本身已经持有免货转费的 Visa/万事达/银联芯片信用卡，直接刷自己的信用卡还能拿银行 1%～10% 境外返现，其实并不刚需办卡费 5,000 韩元的 WOWPASS；但对于没有外币信用卡的学生党，WOWPASS 兼具外币现钞自助存钱换汇刷卡和 T-money 交通卡功能，确实方便。"
+        },
+        {
+          "question": "韩国刷国内信用卡需要输密码还是签名？",
+          "answer": "韩国 POS 机读芯片卡后普遍不需要输入 6 位密码，超过 5 万韩元的交易收银员会让用触控笔在电子屏上随便签个名即可完成。"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-malaysia-contactless-transit-and-payment",
+      "url": "https://www.vooqqqm.com/guides/singapore-malaysia-contactless-transit-and-payment.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "新加坡与马来西亚无现金出行指南：地铁直接拍信用卡进站规则、Grab 绑卡与樟宜机场电子退税",
+      "summary": "详解新加坡 SimplyGo 拍卡乘车手续费细节、吉隆坡支付宝/Touch 'n Go 支付组合、东南亚打车软件 Grab 绑外币卡技巧，以及新加坡 eTRS 无纸化退税流程。",
+      "keywords": [
+        "新加坡地铁刷什么卡",
+        "新加坡旅游要换现金吗",
+        "樟宜机场退税流程",
+        "马来西亚Touch n Go怎么充值",
+        "Grab绑信用卡教程"
+      ],
+      "datePublished": "2026-09-21",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "在吉隆坡坐轻轨地铁可以直接刷国内信用卡吗？",
+          "answer": "吉隆坡部分新建线路与机场快铁（KLIA Ekspres）支持直接拍感应信用卡，但老城区部分轻轨线仍以本地 Touch 'n Go 卡或自助机买单程代币（Token）为主，短期游客买单程币或搭 Grab 打车往往比专门办卡更省事。"
+        },
+        {
+          "question": "去星耀樟宜（Jewel）买的东西也能办退税吗？",
+          "answer": "可以，星耀樟宜位于机场公共区（安检外），单店消费满 100 新元同样让店员扫护照录入 eTRS，随后在出发厅 eTRS 终端核验即可。"
+        }
+      ]
+    },
+    {
+      "slug": "airport-lounge-dragonpass-priority-pass-guide",
+      "url": "https://www.vooqqqm.com/guides/airport-lounge-dragonpass-priority-pass-guide.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "信用卡附带机场与高铁贵宾厅（龙腾出行 / Priority Pass）使用手册：携伴规则、餐食厅区别与预约细则",
+      "summary": "分清“银行自营贵宾楼（含独立安检代办值机）”与“安检后第三方休息室（龙腾/PP 卡）”的体验差异，教你查清手头白金卡是完整版可吃饭龙腾还是阉割版仅休息室。",
+      "keywords": [
+        "信用卡机场贵宾厅怎么用",
+        "完整版龙腾有哪些银行",
+        "Priority Pass和龙腾区别",
+        "银行自营CIP贵宾楼",
+        "高铁龙腾餐食体验厅"
+      ],
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-11-19",
+      "faqs": [
+        {
+          "question": "坐廉价航空（如春秋、香港快运）能进信用卡送的龙腾或 PP 休息室吗？",
+          "answer": "完全可以！第三方休息室（龙腾、Priority Pass、环亚）只认你手里的有效当日出发登机牌和信用卡权益码，不挑航空公司与舱位，哪怕买的是特价经济舱照样能进去吃热食休息。"
+        },
+        {
+          "question": "每次进休息室可以待多久？",
+          "answer": "国际与国内机场休息室标准单次使用时长普遍为 2 至 3 小时，正常候机完全够用；若遇航班长时间延误可向前台说明情况协商续留。"
+        }
+      ]
+    },
+    {
+      "slug": "flight-delay-insurance-credit-card-claim-guide",
+      "url": "https://www.vooqqqm.com/guides/flight-delay-insurance-credit-card-claim-guide.html",
+      "category": "travel",
+      "categoryName": "出境旅行与退税",
+      "title": "信用卡航班延误险怎么理赔？“本人刷卡购票”条件、起飞 vs 到达起算标准与材料清单",
+      "summary": "详解高端与白金信用卡附赠航班延误险的三大理赔门槛：是否必须用该卡支付票款、按计划到达延误 2/3/4 小时判定细则、里程兑换票能否理赔，以及电子延误证明下载方法。",
+      "keywords": [
+        "信用卡航班延误险对比",
+        "航班延误险怎么理赔",
+        "起飞延误还是到达延误",
+        "里程票能赔延误险吗",
+        "航旅纵横延误证明"
+      ],
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "我自己买保险公司延误险和信用卡送的延误险冲突吗？可以两边同时领吗？",
+          "answer": "定额给付型航班延误险属于财产不便定额补偿性质，不同保单承保公司之间若无明确互斥条款可各自独立按合同申报；但实报实销费用报销型（如报销同一晚延误酒店发票）遵循损失补偿原则，总额不能超过实际花销。"
+        },
+        {
+          "question": "提前一天收到航司短信通知“航班时刻调整推迟 3 小时”，这算延误险理赔范围吗？",
+          "answer": "多数银行保单条款中有一条“提前 24 小时（部分为 12 小时）已发布的航班计划时刻变更不属于突发延误责任”，理赔前会自动比对航司通知下发时间戳。"
+        }
+      ]
+    },
+    {
+      "slug": "simple-vs-compound-interest-deposit-guide",
+      "url": "https://www.vooqqqm.com/guides/simple-vs-compound-interest-deposit-guide.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "什么是单利与复利？日常定期存款、大额存单计息方式对比与实际到期利息核算方法",
+      "summary": "厘清银行普通整存整取定期存款为什么按“单利”计息而非复利，教你手算 3 年期存款与按年自动转存的真实到期本息，并配套使用本站储蓄计算器快速验算。",
+      "keywords": [
+        "单利和复利的区别",
+        "银行定期存款是单利还是复利",
+        "自动转存划算吗",
+        "大额存单利息怎么算",
+        "利息计算公式"
+      ],
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "定期存款如果还差 1 个月到期，急用钱提前支取怎么算利息？",
+          "answer": "普通定期存款提前支取的部分，无论你已经存了两年零十一个月，银行均统一按支取当日的**活期挂牌利率**计息，利息损失极大！若只急用其中一小部分（比如 10 万存单只急用 2 万），务必办理“部分提前支取”，剩余 8 万仍可继续保留原定期高利率到期。"
+        },
+        {
+          "question": "银行计息里的“一年按 360 天还是 365 天”是怎么规定的？",
+          "answer": "国内人民币储蓄存款换算日利率通用行规为“日利率 ＝ 年利率 ÷ 360，月利率 ＝ 年利率 ÷ 12”；而部分理财产品说明书和外币存款（如英镑、港币按 365 天，美元、欧元常按 360 天）会在产品合同中单独载明计息天数基数。"
+        }
+      ]
+    },
+    {
+      "slug": "monthly-savings-plan-future-value-math",
+      "url": "https://www.vooqqqm.com/guides/monthly-savings-plan-future-value-math.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "零存整取与按月攒钱计划怎么测算终值？期初存入与期末存入公式差异及家庭目标储蓄法",
+      "summary": "详解每月固定发薪日攒下一笔钱（年金终值模型）的数学计算逻辑，帮你把年度旅行基金、家电焕新预算或应急备用金拆解成轻松无压力的月度储蓄目标。",
+      "keywords": [
+        "每月存钱计算器",
+        "零存整取利息怎么算",
+        "年金终值计算公式",
+        "家庭应急备用金规划",
+        "期初存入期末存入区别"
+      ],
+      "datePublished": "2026-07-09",
+      "dateModified": "2026-11-23",
+      "faqs": [
+        {
+          "question": "传统银行柜台的“零存整取”业务现在还值得办吗？",
+          "answer": "传统零存整取挂牌利率普遍偏低（常仅略高于活期），且漏存超过次数限制会影响计息。如今更灵活的替代做法是每月发薪日单独买一笔短期定开现金管理或“十二存单法”每月存一张一年期定期，收益率与灵活性都更好。"
+        },
+        {
+          "question": "如何防止攒到一半忍不住把专户里的钱花掉？",
+          "answer": "最有效的小技巧是“物理隔离”：专门挑一张平时不绑微信、不绑支付宝、不装快捷支付的二类或独立一类储蓄卡作为只进不出的攒钱卡。"
+        }
+      ]
+    },
+    {
+      "slug": "bank-fx-rates-buy-sell-spread-explained",
+      "url": "https://www.vooqqqm.com/guides/bank-fx-rates-buy-sell-spread-explained.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "银行外汇牌价里的“现汇买入价、现钞买入价、卖出价”怎么看？购汇与结汇点差一表看懂",
+      "summary": "彻底搞清为什么永远要站在“银行作为交易对手”的视角看外汇牌价表：去银行换美元/港币该看哪一列？用不完的外币纸币存回银行换成人民币为什么会缩水？",
+      "keywords": [
+        "现汇买入价和卖出价怎么看",
+        "现钞买入价为什么低",
+        "去银行换汇看哪个价格",
+        "购汇点差怎么算",
+        "外币结汇划算时间"
+      ],
+      "datePublished": "2026-07-28",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "个人每年 5 万美元便利化购汇额度，在每年什么时候清零重算？",
+          "answer": "按公历自然年计算（每年 1 月 1 日自动恢复新的等值 5 万美元年度便利化购汇与结汇额度），当年未用完的额度不会结转累加到下一年。"
+        },
+        {
+          "question": "用外币信用卡在国外刷卡消费，会占用这每年 5 万美元的个人购汇额度吗？",
+          "answer": "不会！根据外汇管理政策，持境内银行发行的外币/全币种信用卡在境外真实合规刷卡消费，回国后使用人民币购汇偿还该信用卡真实消费欠款，全额保障兑换且**不占用**个人年度 5 万美元便利化购汇额度。"
+        }
+      ]
+    },
+    {
+      "slug": "household-budget-50-30-20-card-ledger",
+      "url": "https://www.vooqqqm.com/guides/household-budget-50-30-20-card-ledger.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "账单管理与家庭消费预算“50/30/20”分类法：如何用卡片分工实现无痛月度记账？",
+      "summary": "告别每天手动记一笔买葱买咖啡的繁琐流水账：通过把固定刚需、弹性悦己消费和强制储蓄分配到两张不同用途的银行卡上，每月只需 10 分钟对一次电子账单即可掌控财务全局。",
+      "keywords": [
+        "503020预算法则",
+        "家庭记账最简单方法",
+        "信用卡分卡管理预算法",
+        "月度消费复盘模板",
+        "如何控制超前消费"
+      ],
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-11-19",
+      "faqs": [
+        {
+          "question": "居住在一线城市房租较高，必要刚需超过 50% 怎么办？",
+          "answer": "比例并非死板教条，刚工作或高房租阶段调整为“60% 刚需 + 20% 弹性 + 20% 储蓄”或“65 / 20 / 15”同样健康，核心底线是守住每月发薪先隔离出固定比例的储蓄习惯。"
+        },
+        {
+          "question": "微信和支付宝自带的月度账单分类准吗？",
+          "answer": "商业扫码消费自动归类准确度已达八成以上，只要把转账红包与理财申购剔除勾选，直接看月度消费统计饼图就足以替代人工流水账。"
+        }
+      ]
+    },
+    {
+      "slug": "credit-card-points-cash-equivalent-valuation",
+      "url": "https://www.vooqqqm.com/guides/credit-card-points-cash-equivalent-valuation.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "信用卡积分价值怎么折算才不被反薅？“每万分等效现金率”计算法与高性价比兑换去向",
+      "summary": "教你用一个统一标尺“每 10,000 积分值多少元人民币”看穿各家银行积分含金量差异，对比换还款金、换微信立减金、换星巴克/视频会员与换航空里程的真实回血率。",
+      "keywords": [
+        "信用卡积分值多少钱",
+        "万分积分价值排行",
+        "积分换里程怎么算划算",
+        "积分商城换东西划算吗",
+        "信用卡综合回馈率"
+      ],
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-11-20",
+      "faqs": [
+        {
+          "question": "收到所谓“您有 88,000 积分今晚清零，请点击链接加现金换购名表”的短信是真的吗？",
+          "answer": "100% 是电信诈骗短信！正规银行绝不会发陌生短链诱导你输入信用卡卡号、有效期、CVV2 安全码和短信验证码去买假冒高价商品。查积分永远只进银行官方 App。"
+        },
+        {
+          "question": "消费退货后，之前送的奖励积分被扣成负数了正常吗？",
+          "answer": "完全正常。如果你用完积分换了券之后发生订单退款，系统回冲奖励分会导致积分余额暂时显示为负值，后续正常刷卡产生的新积分会先自动填平负分。"
+        }
+      ]
+    },
+    {
+      "slug": "avoid-dcc-dynamic-currency-conversion-abroad",
+      "url": "https://www.vooqqqm.com/guides/avoid-dcc-dynamic-currency-conversion-abroad.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "商户动态货币转换（DCC）防坑指南：境外刷 POS 机为什么一定要选当地币种而不是人民币？",
+      "summary": "揭秘境外刷 Visa/Mastercard 时一秒钟让你多花 3%～7% 冤枉钱的 DCC（Dynamic Currency Conversion）收银台机制，教你识别签购单关键词并当场要求重刷撤销。",
+      "keywords": [
+        "什么是DCC交易",
+        "境外刷卡选当地货币还是人民币",
+        "DCC手续费怎么避免",
+        "POS机选USD还是CNY",
+        "跨境刷卡防坑"
+      ],
+      "datePublished": "2026-09-14",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "在香港刷美元计价的双币 Visa 卡，选港币（HKD）还是选美元（USD）？",
+          "answer": "在香港本地商店消费，当地币种就是**港币（HKD）**！如果香港 POS 机跳出让你选 HKD 还是 USD，选 USD 同样属于触发了港币转美元的 DCC 高额加点，永远坚定选消费发生地本币 HKD！"
+        },
+        {
+          "question": "在网上买海外机票（如瑞安航空、Agoda 等）也会遇到线上 DCC 吗？",
+          "answer": "会！许多国际预订网站右上角如果把显示货币切换成了人民币（CNY）再用 Visa/万事达付款，结算页往往内置了 3%～5% 平台换汇溢价；把网站右上角结算币种切回酒店/航司所在地的原币（如日元、欧元、泰铢）再用免转费全币卡支付，或者切人民币后改用微信/支付宝/银联支付才不吃亏。"
+        }
+      ]
+    },
+    {
+      "slug": "hotel-car-rental-preauthorization-deposit-guide",
+      "url": "https://www.vooqqqm.com/guides/hotel-car-rental-preauthorization-deposit-guide.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "押金类消费（海外租车与酒店入住）预授权与实际扣款有什么区别？额度释放周期与核账技巧",
+      "summary": "解析自驾租车与星级酒店前台刷卡押金的“预授权冻结—预授权完成—自动解冻”三阶段金融流程，教你避开储蓄卡冻结现金流与还车后违章扣款争议。",
+      "keywords": [
+        "信用卡预授权是什么意思",
+        "海外租车押金多久解冻",
+        "预授权占用账单额度吗",
+        "酒店押金没退怎么回事",
+        "租车必须凸字信用卡吗"
+      ],
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-11-21",
+      "faqs": [
+        {
+          "question": "现在的平印数字信用卡（卡号印在背面无凹凸立体字）能在国外租车吗？",
+          "answer": "绝大多数正规国际大车行早已升级为读取 EMV 芯片验证（不再使用几十年前的老式拓印压卡机），只要卡片正面或背面印有主驾本人英文拼音且在卡面/系统识别为 Credit（贷记信用卡而非 Debit 借记卡），平印芯片卡均可正常提车。"
+        },
+        {
+          "question": "退房已经超过 35 天了，额度怎么还没恢复？",
+          "answer": "先查看“已出账单”确认酒店是否误将预授权做成了正式消费扣款。若确实未入账但额度仍被占，直接致电发卡行客服申请人工核查释放过期预授权即可。"
+        }
+      ]
+    },
+    {
+      "slug": "gift-cards-prepaid-vouchers-safety-management",
+      "url": "https://www.vooqqqm.com/guides/gift-cards-prepaid-vouchers-safety-management.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "电子礼品卡、商超储值卡与银行消费券管理建议：有效期预警、合规使用边界与防诈骗提醒",
+      "summary": "梳理家庭常见的京东 E 卡、商超提货卡、咖啡电子券与银行满减券台账管理技巧，提示单用途商业预付卡备案规范以及高度警惕“刷单买礼品卡发卡密”电信诈骗。",
+      "keywords": [
+        "电子礼品卡有效期管理",
+        "京东E卡使用范围",
+        "预付卡过期了还能激活吗",
+        "买礼品卡诈骗防范",
+        "优惠券整理方法"
+      ],
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-11-22",
+      "faqs": [
+        {
+          "question": "信用卡刷卡买商超储值卡或电商礼品卡有积分、算返现达标吗？",
+          "answer": "绝大多数银行信用卡条款已明确将“购买预付卡、礼品卡、充值卡”列入零积分且不计入刷卡达标活动范围，同时严禁利用信用卡大额频繁购卡套现，日常按真实家庭自用小额购买即可。"
+        },
+        {
+          "question": "街边健身房、理发店推销充五千送五千的跨年储值卡能办吗？",
+          "answer": "个体生活服务门店预付充值风险较高，按消费者权益保护建议，尽量不办跨年度大额预付卡，确需充值控制在两三个月能消费完的小金额以内。"
+        }
+      ]
+    },
+    {
+      "slug": "cross-border-ecommerce-black-friday-return-refund",
+      "url": "https://www.vooqqqm.com/guides/cross-border-ecommerce-black-friday-return-refund.html",
+      "category": "tools-literacy",
+      "categoryName": "消费规划与计算工具",
+      "title": "海淘与黑五（Black Friday）跨境网购退货退款全流程：汇率差损谁承担、关税退还与返现追回规则",
+      "summary": "针对亚马逊海外购、欧美百货直邮及转运海淘发生尺码不合或商品破损退货时的资金链条，讲清外币原路退款汇差原因、跨境电商进口税退税条件以及信用卡返现回冲计算。",
+      "keywords": [
+        "海淘退货汇率差谁承担",
+        "黑五海淘怎么退税",
+        "亚马逊海外购退货关税退吗",
+        "外币信用卡退款抵扣本期账单吗",
+        "跨境网购维权"
+      ],
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-11-24",
+      "faqs": [
+        {
+          "question": "黑五凑单拿了银行 10% 返现后发生部分退货，返现怎么算？",
+          "answer": "银行返现系统会自动将退货金额从你活动周期的累计净消费额中扣减：如果扣减后仍高于活动门槛，仅按比例扣回退货部分的返现；如果扣减后跌破最低达标线，则整笔活动返现会被全额冲回。"
+        },
+        {
+          "question": "海淘官网迟迟不发货却已经扣了款怎么办？",
+          "answer": "欧美大型百货官网普遍采用“发货时才正式请款（Ship then Charge）”，下单瞬间只是预授权冻结额度，若缺货砍单会自动撤销预授权不会真扣钱。"
+        }
+      ]
+    }
+  ]
+}
