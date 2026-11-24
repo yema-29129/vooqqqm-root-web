@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>跨境刷卡 DCC 动态货币转换损耗与返现对比计算器｜羊毛助手指南站</title>
+  <meta name="description" content="在线对比境外刷卡选择当地原币种（叠加免转费与境外返现）与误选 POS 机 DCC 人民币入账的真实账单差额。">
+  <meta name="keywords" content="银行卡攻略,跨境支付,香港银行用卡,离境退税,微信立减金指南,羊毛助手">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <meta name="google-adsense-account" content="ca-pub-4665323446483162">
+  <link rel="canonical" href="https://www.vooqqqm.com/tools/fx-dcc-calculator.html">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="跨境刷卡 DCC 动态货币转换损耗与返现对比计算器｜羊毛助手指南站">
+  <meta property="og:description" content="在线对比境外刷卡选择当地原币种（叠加免转费与境外返现）与误选 POS 机 DCC 人民币入账的真实账单差额。">
+  <meta property="og:url" content="https://www.vooqqqm.com/tools/fx-dcc-calculator.html">
+  <meta property="og:site_name" content="羊毛助手指南站">
+  <meta property="og:image" content="https://www.vooqqqm.com/assets/logo-lijianjin.png">
+  <link rel="icon" type="image/png" href="/assets/logo-lijianjin.png">
+  <link rel="alternate" type="application/rss+xml" href="https://www.vooqqqm.com/rss.xml" title="羊毛助手指南站 RSS">
+  <link rel="stylesheet" href="/assets/root-style.css?v=20261124">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4665323446483162" crossorigin="anonymous"></script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "跨境刷卡 DCC 动态货币转换损耗与返现对比计算器｜羊毛助手指南站", "url": "https://www.vooqqqm.com/tools/fx-dcc-calculator.html", "description": "在线对比境外刷卡选择当地原币种（叠加免转费与境外返现）与误选 POS 机 DCC 人民币入账的真实账单差额。", "inLanguage": "zh-CN", "isPartOf": {"@type": "WebSite", "name": "羊毛助手指南站", "url": "https://www.vooqqqm.com/"}}</script>
+</head>
+<body>
+  <div class="top-notice">
+    <div class="container top-notice-inner">
+      <span>羊毛助手主站指南库 · 专注银行卡规则拆解、港澳跨境支付与出境退税科普（非投资建议）</span>
+      <a href="https://bank.vooqqqm.com/" rel="noopener">前往子站：实时银行优惠与微信立减金活动库 (bank.vooqqqm.com) →</a>
+    </div>
+  </div>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">
+        <img src="/assets/logo-lijianjin.png" alt="羊毛助手指南站" width="40" height="40">
+        <span class="brand-text">
+          <strong>羊毛助手指南站</strong>
+          <small>银行卡权益 · 跨境支付 · 出境退税与储蓄工具手册</small>
+        </span>
+      </a>
+      <button type="button" class="mobile-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="mainNav">菜单</button>
+      <nav class="main-nav" id="mainNav" aria-label="主导航">
+        <a class="nav-link" href="/">首页</a>
+        <a class="nav-link" href="/categories/cards.html">信用卡攻略</a>
+        <a class="nav-link" href="/categories/cross-border.html">港澳跨境</a>
+        <a class="nav-link" href="/categories/travel.html">旅行退税</a>
+        <a class="nav-link active" href="/tools/">计算工具</a>
+        <a class="nav-link" href="/guides/">全部指南</a>
+        <a class="nav-link" href="/about.html">关于我们</a>
+        <a class="nav-cta" href="https://bank.vooqqqm.com/">实时活动库 ↗</a>
+      </nav>
+    </div>
+  </header>
+
+
+  <div class="container">
+    <nav class="breadcrumb"><a href="/">首页</a> / <a href="/tools/">计算工具</a> / <span>跨境刷卡 DCC 与转汇成本对比计算器</span></nav>
+    <div class="article-layout">
+      <article class="article-main">
+        <span class="card-tag">跨境防坑工具</span>
+        <h1>跨境刷卡 DCC 与转汇成本对比计算器</h1>
+        <p>在境外刷 Visa / Mastercard 时，收银机若诱导选择人民币（CNY）入账即触发<strong>动态货币转换（DCC）</strong>，不仅被加收 3%～7% 汇率加点，还可能失去银行外币消费返现资格。输入消费金额快速测算两种选择的人民币实付差价。</p>
+        <div class="calc-grid">
+          <div class="calc-panel">
+            <div class="form-row">
+              <label for="dAmount">境外消费当地外币金额（如 1000 欧元/美元）</label>
+              <input type="number" id="dAmount" value="1000" min="1" step="50">
+            </div>
+            <div class="form-row">
+              <label for="dRate">当前卡组织公允汇率（1 外币兑人民币，如欧元 7.75）</label>
+              <input type="number" id="dRate" value="7.75" min="0.001" step="0.01">
+            </div>
+            <div class="form-row">
+              <label for="dMarkup">收单机构 DCC 汇率加点比例（%，常见 4%—6.5%）</label>
+              <input type="number" id="dMarkup" value="5.0" min="0" max="15" step="0.5">
+            </div>
+            <div class="form-row">
+              <label for="dCashback">全币卡已报名的境外返现比例（%，无活动填 0）</label>
+              <input type="number" id="dCashback" value="2.0" min="0" max="20" step="0.5">
+            </div>
+            <button type="button" class="calc-btn" id="runDccCalc">对比实付差额</button>
+          </div>
+          <div class="calc-panel">
+            <h3 style="margin-top:0;">两种刷卡选择账单对比</h3>
+            <div class="result-stat"><span>选当地币种（免转费 + 扣减返现后净成本）</span><strong id="resCleanCny">¥0.00</strong></div>
+            <div class="result-stat"><span>误触 DCC 选人民币结算实付金额</span><strong id="resDccCny" style="color:#dc2626;">¥0.00</strong></div>
+            <div class="result-stat"><span>选对币种一笔立省人民币</span><strong id="resDccSaved" style="color:var(--accent);">¥0.00</strong></div>
+          </div>
+        </div>
+        <h2>为什么境外刷卡永远要选“当地货币（Local Currency）”？</h2>
+        <p>当你持有免收 1.5% 货币转换费的全币种信用卡并选择当地货币（如在欧洲选 EUR、在日本选 JPY、在香港选 HKD）结算时，汇率由卡组织官方透明中间牌价折算，且正常计入各家银行的境外外币返现达标统计；而一旦在 POS 机上按了本国货币 CNY，汇率由当地收单行单方面加价锁定且无法撤销返现损失。详细现场识别与撤销步骤请阅读：<a href="/guides/avoid-dcc-dynamic-currency-conversion-abroad.html">《商户动态货币转换（DCC）防坑指南》</a>。</p>
+      </article>
+      <aside>
+        <div class="sidebar-card bank-promo-card">
+          <h3>查找高比例境外返现活动</h3>
+          <p>出发前去活动子站看看哪些银行正在开展 2%—10% 境外刷卡返现与免税店满减。</p>
+          <a class="bank-promo-btn" href="https://bank.vooqqqm.com/activities/topics/overseas-deals.html">查看最新海外返现活动 →</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <h4>羊毛助手指南站 (vooqqqm.com)</h4>
+          <p style="color:#94a3b8;line-height:1.7;margin:0 0 12px;">本站为「羊毛助手」主域名图文指南与储蓄计算工具站，提供原创银行卡权益拆解、跨境支付实操、离境退税流程科普；每日实时银行优惠线报同步更新于子站 <a href="https://bank.vooqqqm.com/" style="color:#5eead4;">bank.vooqqqm.com</a>。</p>
+          <p style="color:#64748b;font-size:12.5px;margin:0;">联系邮箱：<a href="mailto:mashuya29129@gmail.com" style="color:#cbd5e1;">mashuya29129@gmail.com</a></p>
+        </div>
+        <div>
+          <h4>核心栏目</h4>
+          <ul>
+            <li><a href="/categories/cards.html">信用卡与支付攻略</a></li>
+            <li><a href="/categories/cross-border.html">港澳与跨境支付科普</a></li>
+            <li><a href="/categories/travel.html">出境旅行与机场退税</a></li>
+            <li><a href="/categories/tools-literacy.html">消费规划与防坑知识</a></li>
+            <li><a href="/tools/">储蓄与汇率计算工具</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>合规与网站信息</h4>
+          <ul>
+            <li><a href="/about.html">关于我们</a></li>
+            <li><a href="/editorial-policy.html">编辑与核验规范</a></li>
+            <li><a href="/privacy.html">隐私政策（含广告 Cookie 说明）</a></li>
+            <li><a href="/disclaimer.html">免责声明</a></li>
+            <li><a href="/terms.html">使用条款</a></li>
+            <li><a href="/contact.html">联系方式</a></li>
+            <li><a href="#" id="openCookieSettings">Cookie 偏好设置</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>矩阵与实用入口</h4>
+          <ul>
+            <li><a href="https://bank.vooqqqm.com/">羊毛助手·实时银行优惠站</a></li>
+            <li><a href="https://bank.vooqqqm.com/activities/topics/wechat-pay.html">微信立减金每日汇总</a></li>
+            <li><a href="https://bank.vooqqqm.com/activities/topics/hk-overseas.html">港澳银行卡优惠专题</a></li>
+            <li><a href="https://calcwisehub.com/" target="_blank" rel="noopener noreferrer">CalcwiseHub 工具箱</a></li>
+            <li><a href="/sitemap.xml">XML 站点地图</a> · <a href="/rss.xml">RSS 订阅</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 羊毛助手指南站 (vooqqqm.com) · 原创消费金融科普与工具指南，不构成任何投资或开户建议。</span>
+        <span>关联活动库：<a href="https://bank.vooqqqm.com/" style="color:#94a3b8;">https://bank.vooqqqm.com</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="cookie-bar" id="cookieBar" role="region" aria-label="Cookie 与隐私提示">
+    <div style="flex:1;min-width:260px;">
+      本站使用必要本地存储以记住您的浏览偏好，并接入 Google AdSense 广告服务（Google 及其合作伙伴可能使用 Cookie 提供相关广告与频次控制）。详见 <a href="/privacy.html" style="color:#5eead4;text-decoration:underline;">《隐私政策》</a>。
+    </div>
+    <div class="cookie-actions">
+      <button type="button" class="cookie-necessary" id="cookieNecessaryBtn">仅必要功能</button>
+      <button type="button" class="cookie-accept" id="cookieAcceptBtn">同意并继续</button>
+    </div>
+  </div>
+  <script defer src="/assets/root-app.js?v=20261124"></script>
+</body>
+</html>

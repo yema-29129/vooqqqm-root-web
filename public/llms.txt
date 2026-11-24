@@ -1,0 +1,46 @@
+# 羊毛助手指南站 (https://www.vooqqqm.com)
+
+> 羊毛助手指南站提供原创中文银行卡权益拆解、微信立减金核销规则、港澳与海外跨境支付科普、全球机场离境退税实操手册及纯前端储蓄汇率计算器；实时银行优惠活动同步于子站 https://bank.vooqqqm.com/ 。
+
+## 核心栏目与计算工具
+- [全部指南总目录](https://www.vooqqqm.com/guides/)
+- [在线储蓄与汇率计算工具箱](https://www.vooqqqm.com/tools/)
+- [羊毛助手实时银行优惠活动库](https://bank.vooqqqm.com/)
+
+## 精选指南索引
+- [信用卡境外消费返现规则全拆解：报名制、达标门槛、MCC 码与入账时间差怎么看？](https://www.vooqqqm.com/guides/overseas-credit-card-cashback-rules.html): 系统梳理银行信用卡境外消费返现的四大核心判定规则：先报名后消费机制、自然月与活动周期统计口径、交易日与记账日汇率时差，以及线上跨境商户与线下实体刷卡的分池计算逻辑。
+- [微信立减金与支付满减券实操指南：叠加规则、退款退券机制与常见领券渠道梳理](https://www.vooqqqm.com/guides/wechat-lijianjin-stacking-and-refund-guide.html): 详细解析银行微信立减金的卡包核销优先级、多张立减金能否合并使用、订单发生部分退款或全额取消时立减金是否退回，以及日常水电煤缴费、商超扫码的实用核销技巧。
+- [银联、Visa、Mastercard、运通四大卡组织跨境结算汇率与货币转换费避坑手册](https://www.vooqqqm.com/guides/card-networks-fx-and-dcc-fees-explained.html): 对比银联、Visa、万事达与美国运通在非美元地区（日元、欧元、港币、泰铢）的清算路径差异，详解 1.5% 货币转换费（FCC）的减免逻辑与全币种卡选卡要点。
+- [信用卡账单日与还款日怎么规划最合理？免息期计算、容时容差政策与自动还款设置清单](https://www.vooqqqm.com/guides/credit-card-billing-cycle-and-grace-period.html): 用通俗实例讲清账单日当天消费与次日消费相差近 30 天免息期的原因，详解银行业协会自律公约下的“容时 3 天、容差 100 元”保护机制与多卡账单日错峰管理技巧。
+- [云闪付 62 会员、银行 App 任务中心与快捷支付积分规则对比：哪些日常消费没有积分？](https://www.vooqqqm.com/guides/unionpay-62-vip-and-card-points-comparison.html): 梳理线上快捷支付时代信用卡攒积分的新变化，解析云闪付积点与 62VIP 回本账算法，以及线下刷卡零积分商户类别码（MCC）的常见类型。
+- [酒店联名卡、航司联名卡与标准返现信用卡怎么选？年费减免条件与权益回本测算方法](https://www.vooqqqm.com/guides/annual-fee-waiver-and-card-selection-math.html): 建立理性的持卡精简模型：用年实际刚需消费额倒推里程卡、酒店卡与无脑返现卡的真实净收益，避免因凑刷免年费而产生非理性消费。
+- [线上订阅服务绑卡扣费管理：预授权验证、自动续费关闭与境外盗刷争议处理流程](https://www.vooqqqm.com/guides/subscription-auto-renewal-and-dispute-guide.html): 针对海外 AI 工具、云服务、流媒体与手机应用免费试用转自动续费的常见扣款问题，提供完整的订阅排查路径、单卡锁卡限额设置与争议拒付（Chargeback）自救步骤。
+- [信用卡分期真实费率怎么算？“月手续费率”折算近似年化成本（IRR）原理与提前结清说明](https://www.vooqqqm.com/guides/credit-card-installment-true-apr-calculation.html): 揭开账单分期“每月仅 0.6% 手续费”背后的资金占用递减原理，教你核对银行明示的近似折算年化利率，以及提前还款时剩余未收手续费的处理规则。
+- [信用卡附属卡（副卡）使用指南：额度共享机制、境外留学与家庭出行限额管理](https://www.vooqqqm.com/guides/supplementary-credit-card-family-travel-guide.html): 详解主卡与附属卡在授信额度、账单归集、信用记录归属、年费政策及贵宾厅权益共享上的规则，帮助家庭出行与子女海外求学建立安全可控的支付方案。
+- [跨境支付通与传统电汇跨境转账有什么不一样？到账时效、手续费与适用场景对比](https://www.vooqqqm.com/guides/cross-border-payment-connect-vs-wire-transfer.html): 详细对比内地与香港互联互通下的“跨境支付通”快速汇款机制与传统 SWIFT 银行电汇在填写信息、中转行手续费、到账速度及日常小额生活汇款场景上的核心差异。
+- [香港多币种万事达扣账卡（蓝狮子等）使用指南：12 币种扣款逻辑、ATM 取现与限额设置](https://www.vooqqqm.com/guides/hk-multicurrency-debit-card-usage-guide.html): 以香港主流多币种万事达借记卡（扣账卡）为例，详解外币账户余额直扣机制、不足时港币自动补足规则、全球 ATM 免手续费取现范围及手机 App 安全限额管理。
+- [香港银行个人账户日常维护与合规用卡须知：不动户管理、FPS 转账边界与常见风控预防](https://www.vooqqqm.com/guides/hk-bank-account-maintenance-and-compliance.html): 总结跨境持卡人维护香港个人银行账户的健康习惯：如何避免触发 12 至 24 个月休眠不动户冻结、快转（FPS）高频陌生往来的合规红线，以及证件与税务资料更新提醒。
+- [内地与香港同名跨境电汇全流程拆解：SWIFT 代码、中转行扣费与材料留存规范](https://www.vooqqqm.com/guides/mainland-hk-swift-remittance-step-by-step.html): 一步步讲清通过手机银行办理同名跨境港币/美元现汇电汇的标准填表规范：如何区分 SHA/OUR 费用承担方式、准确填写香港银行地区码与分行号，避免因格式错误被退汇扣费。
+- [赴港消费支付方式全对比：八达通、内地支付宝/微信、银联与手机拍卡乘车实测要点](https://www.vooqqqm.com/guides/hk-travel-payment-methods-comparison.html): 去香港旅游到底要不要换大量港币现金？横向测评港铁/巴士/叮叮车/茶餐厅/大型商场五大场景下，手机八达通、二维码乘车码、信用卡挥卡与内地移动支付的便利度和汇率表现。
+- [澳门出行支付与用卡攻略：银联闪付、微信支付宝商圈立减与酒店押金预授权解冻周期说明](https://www.vooqqqm.com/guides/macau-travel-payment-and-hotel-deposit-guide.html): 解析澳门元（MOP）、港币与人民币在澳门日常消费中的“1:1 找赎”潜规则、公交车乘车支付方式，以及度假村酒店入住押金预授权原路释放的时间周期。
+- [香港银行 FPS「转数快」怎么用？手机号/电邮默认收款行绑定、跨行秒到限额与账单缴费实操](https://www.vooqqqm.com/guides/hk-fps-fast-payment-system-guide.html): 手把手讲透香港金融管理局推出的实时跨行转账基础设施 FPS（Faster Payment System）：识别码绑定方法、更改默认收款银行步骤以及跨行港币与人民币免手续费秒转技巧。
+- [海外 ATM 外币取现手续费怎么算？发卡行取现费、当地 ATM 附加费（Surcharge）与省钱技巧](https://www.vooqqqm.com/guides/overseas-atm-cash-withdrawal-fees-guide.html): 拆解在泰国、日本、欧美用银行卡 ATM 取现时容易被忽视的“双向收费”结构，教你分清银联储蓄卡与信用卡取现的本质区别，避开 ATM 屏幕上的汇率转换陷阱。
+- [跨境旅行常见卡片锁卡与风控如何预防？出行前报备、漫游短信接收与双卡备份方案](https://www.vooqqqm.com/guides/prevent-card-block-while-traveling-abroad.html): 出国刷第一笔卡就被风控拦截拒付怎么办？整理出发前 5 分钟必做的银行 App 报备清单、海外接收 3DS 动态验证码设置，以及“不同发卡行 + 不同卡组织”黄金组合策略。
+- [香港国际机场飞机乘客离境税退税全攻略：豁免条件、准备材料与线上/柜台申办流程](https://www.vooqqqm.com/guides/hk-airport-departure-tax-refund-guide.html): 详解经深圳湾、高铁西九龙或港珠澳大桥入境香港后“同一天内”乘机离港旅客如何合规申领香港飞机乘客离境税退税，梳理机票税费明细识别、电子申请通道与到账方式。
+- [珠三角（广州/深圳）前往香港国际机场乘机全流程：高铁、深圳湾大巴与琶洲/蛇口快船对比](https://www.vooqqqm.com/guides/guangzhou-shenzhen-to-hk-airport-transit-guide.html): 实测对比大湾区居民赴香港国际机场搭国际航班的三条主流路线：广州琶洲/深圳蛇口海天码头直挂行李快船、广深港高铁转机场快线，以及深圳湾口岸商务七座车/跨境巴士的时间与费用。
+- [日本自由行行前准备清单：电子签证核验、流量卡/eSIM、西瓜卡绑定与交通支付实用经验](https://www.vooqqqm.com/guides/japan-independent-travel-esim-suica-checklist.html): 从出发前 Visit Japan Web 填报、iPhone 绑定 Suica/ICOCA 交通卡充值，到新干线大件行李预约、便利店取现与药妆百货折上折支付技巧的一站式行前指南。
+- [日本购物退税（Tax-Free）实操手册：一般物品与消耗品封装规定、护照核验与机场检查要点](https://www.vooqqqm.com/guides/japan-tax-free-shopping-rules-update.html): 厘清日本 10% 消费税免税购物的满 5,000 日元不含税门槛、药妆食品防拆封透明袋规则、百货商场扣除退税手续费计算方式，以及未来“先征后机场退”制度过渡期注意事项。
+- [欧洲申根区购物退税指南：Global Blue 与 Planet 退税单填写、海关盖章与退卡避坑对比](https://www.vooqqqm.com/guides/europe-schengen-tax-refund-global-blue-planet.html): 一次性理清多国连游欧洲时“最后一个离开欧盟申根国的机场才盖海关章”的铁律，对比退信用卡、退支付宝与机场领欧元现金的实际到手金额差异。
+- [韩国首尔与济州出行支付与退税攻略：T-money 交通卡、移动扫码立减与市区即时退税流程](https://www.vooqqqm.com/guides/korea-travel-wowpass-tax-refund-guide.html): 梳理韩国高达 98% 刷卡普及率环境下的最优支付组合：Olive Young 与免税店现场直减退税（Instant Tax Refund）限额、便利店扫码立减及仁川机场自助退税机流程。
+- [新加坡与马来西亚无现金出行指南：地铁直接拍信用卡进站规则、Grab 绑卡与樟宜机场电子退税](https://www.vooqqqm.com/guides/singapore-malaysia-contactless-transit-and-payment.html): 详解新加坡 SimplyGo 拍卡乘车手续费细节、吉隆坡支付宝/Touch 'n Go 支付组合、东南亚打车软件 Grab 绑外币卡技巧，以及新加坡 eTRS 无纸化退税流程。
+- [信用卡附带机场与高铁贵宾厅（龙腾出行 / Priority Pass）使用手册：携伴规则、餐食厅区别与预约细则](https://www.vooqqqm.com/guides/airport-lounge-dragonpass-priority-pass-guide.html): 分清“银行自营贵宾楼（含独立安检代办值机）”与“安检后第三方休息室（龙腾/PP 卡）”的体验差异，教你查清手头白金卡是完整版可吃饭龙腾还是阉割版仅休息室。
+- [信用卡航班延误险怎么理赔？“本人刷卡购票”条件、起飞 vs 到达起算标准与材料清单](https://www.vooqqqm.com/guides/flight-delay-insurance-credit-card-claim-guide.html): 详解高端与白金信用卡附赠航班延误险的三大理赔门槛：是否必须用该卡支付票款、按计划到达延误 2/3/4 小时判定细则、里程兑换票能否理赔，以及电子延误证明下载方法。
+- [什么是单利与复利？日常定期存款、大额存单计息方式对比与实际到期利息核算方法](https://www.vooqqqm.com/guides/simple-vs-compound-interest-deposit-guide.html): 厘清银行普通整存整取定期存款为什么按“单利”计息而非复利，教你手算 3 年期存款与按年自动转存的真实到期本息，并配套使用本站储蓄计算器快速验算。
+- [零存整取与按月攒钱计划怎么测算终值？期初存入与期末存入公式差异及家庭目标储蓄法](https://www.vooqqqm.com/guides/monthly-savings-plan-future-value-math.html): 详解每月固定发薪日攒下一笔钱（年金终值模型）的数学计算逻辑，帮你把年度旅行基金、家电焕新预算或应急备用金拆解成轻松无压力的月度储蓄目标。
+- [银行外汇牌价里的“现汇买入价、现钞买入价、卖出价”怎么看？购汇与结汇点差一表看懂](https://www.vooqqqm.com/guides/bank-fx-rates-buy-sell-spread-explained.html): 彻底搞清为什么永远要站在“银行作为交易对手”的视角看外汇牌价表：去银行换美元/港币该看哪一列？用不完的外币纸币存回银行换成人民币为什么会缩水？
+- [账单管理与家庭消费预算“50/30/20”分类法：如何用卡片分工实现无痛月度记账？](https://www.vooqqqm.com/guides/household-budget-50-30-20-card-ledger.html): 告别每天手动记一笔买葱买咖啡的繁琐流水账：通过把固定刚需、弹性悦己消费和强制储蓄分配到两张不同用途的银行卡上，每月只需 10 分钟对一次电子账单即可掌控财务全局。
+- [信用卡积分价值怎么折算才不被反薅？“每万分等效现金率”计算法与高性价比兑换去向](https://www.vooqqqm.com/guides/credit-card-points-cash-equivalent-valuation.html): 教你用一个统一标尺“每 10,000 积分值多少元人民币”看穿各家银行积分含金量差异，对比换还款金、换微信立减金、换星巴克/视频会员与换航空里程的真实回血率。
+- [商户动态货币转换（DCC）防坑指南：境外刷 POS 机为什么一定要选当地币种而不是人民币？](https://www.vooqqqm.com/guides/avoid-dcc-dynamic-currency-conversion-abroad.html): 揭秘境外刷 Visa/Mastercard 时一秒钟让你多花 3%～7% 冤枉钱的 DCC（Dynamic Currency Conversion）收银台机制，教你识别签购单关键词并当场要求重刷撤销。
+- [押金类消费（海外租车与酒店入住）预授权与实际扣款有什么区别？额度释放周期与核账技巧](https://www.vooqqqm.com/guides/hotel-car-rental-preauthorization-deposit-guide.html): 解析自驾租车与星级酒店前台刷卡押金的“预授权冻结—预授权完成—自动解冻”三阶段金融流程，教你避开储蓄卡冻结现金流与还车后违章扣款争议。
+- [电子礼品卡、商超储值卡与银行消费券管理建议：有效期预警、合规使用边界与防诈骗提醒](https://www.vooqqqm.com/guides/gift-cards-prepaid-vouchers-safety-management.html): 梳理家庭常见的京东 E 卡、商超提货卡、咖啡电子券与银行满减券台账管理技巧，提示单用途商业预付卡备案规范以及高度警惕“刷单买礼品卡发卡密”电信诈骗。
+- [海淘与黑五（Black Friday）跨境网购退货退款全流程：汇率差损谁承担、关税退还与返现追回规则](https://www.vooqqqm.com/guides/cross-border-ecommerce-black-friday-return-refund.html): 针对亚马逊海外购、欧美百货直邮及转运海淘发生尺码不合或商品破损退货时的资金链条，讲清外币原路退款汇差原因、跨境电商进口税退税条件以及信用卡返现回冲计算。
