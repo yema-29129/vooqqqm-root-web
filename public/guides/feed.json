@@ -2,34 +2,34 @@
   "site": "羊毛助手指南站",
   "url": "https://www.vooqqqm.com/",
   "companionDealsSite": "https://bank.vooqqqm.com/",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "totalGuides": 54,
   "tools": [
     {
       "name": "香港熱門信用卡簽賬回贈對比計算器",
-      "url": "https://www.vooqqqm.com/tools/hk-card-rebate-calculator.html"
+      "url": "https://www.vooqqqm.com/tools/hk-card-rebate-calculator"
     },
     {
       "name": "银行微信/支付宝/拼多多/美团限额与风控速查器",
-      "url": "https://www.vooqqqm.com/tools/payment-limit-checker.html"
+      "url": "https://www.vooqqqm.com/tools/payment-limit-checker"
     },
     {
       "name": "跨境刷卡 DCC 与转汇成本对比计算器",
-      "url": "https://www.vooqqqm.com/tools/fx-dcc-calculator.html"
+      "url": "https://www.vooqqqm.com/tools/fx-dcc-calculator"
     },
     {
       "name": "周期储蓄与复利终值计算器",
-      "url": "https://www.vooqqqm.com/tools/compound-calculator.html"
+      "url": "https://www.vooqqqm.com/tools/compound-calculator"
     },
     {
       "name": "定期存款单利利息计算器",
-      "url": "https://www.vooqqqm.com/tools/simple-interest-calculator.html"
+      "url": "https://www.vooqqqm.com/tools/simple-interest-calculator"
     }
   ],
   "guides": [
     {
       "slug": "boc-chill-card-cashback-guide",
-      "url": "https://www.vooqqqm.com/guides/boc-chill-card-cashback-guide.html",
+      "url": "https://www.vooqqqm.com/guides/boc-chill-card-cashback-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "中銀 Chill Card 簽賬回贈全攻略：網購、Apple Pay、海外簽賬回贈上限與注意事項",
@@ -57,7 +57,7 @@
     },
     {
       "slug": "boc-go-card-mainland-travel-guide",
-      "url": "https://www.vooqqqm.com/guides/boc-go-card-mainland-travel-guide.html",
+      "url": "https://www.vooqqqm.com/guides/boc-go-card-mainland-travel-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "中銀 Go 卡（BOC Go Card）回贈與北上消費實測：高鐵 12306、美團、微信支付及 BOC Pay 乘車優惠 2026",
@@ -85,7 +85,7 @@
     },
     {
       "slug": "citic-in-motion-credit-card-guide",
-      "url": "https://www.vooqqqm.com/guides/citic-in-motion-credit-card-guide.html",
+      "url": "https://www.vooqqqm.com/guides/citic-in-motion-credit-card-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "信銀國際 Motion 信用卡（中信 Motion 卡）食肆與網上簽賬 6% 回贈上限及合資格商戶拆解",
@@ -113,7 +113,7 @@
     },
     {
       "slug": "hsbc-red-card-apple-pay-rewardcash-guide",
-      "url": "https://www.vooqqqm.com/guides/hsbc-red-card-apple-pay-rewardcash-guide.html",
+      "url": "https://www.vooqqqm.com/guides/hsbc-red-card-apple-pay-rewardcash-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "滙豐 HSBC Red 信用卡網購與 Apple Pay 回贈拆解：「獎賞錢」用法、超市及 SOGO 簽賬攻略",
@@ -141,7 +141,7 @@
     },
     {
       "slug": "trip-com-hsbc-credit-card-promo-guide",
-      "url": "https://www.vooqqqm.com/guides/trip-com-hsbc-credit-card-promo-guide.html",
+      "url": "https://www.vooqqqm.com/guides/trip-com-hsbc-credit-card-promo-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "Trip.com × HSBC 滙豐及香港信用卡優惠碼總整理（2026）：機票酒店滿減 Code 與簽賬疊加攻略",
@@ -169,7 +169,7 @@
     },
     {
       "slug": "agoda-mastercard-wewa-hotel-discount-guide",
-      "url": "https://www.vooqqqm.com/guides/agoda-mastercard-wewa-hotel-discount-guide.html",
+      "url": "https://www.vooqqqm.com/guides/agoda-mastercard-wewa-hotel-discount-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "Agoda Mastercard 88 折與 WeWa / 滙豐信用卡訂房優惠攻略：專屬連結入口與延後付款匯率避坑",
@@ -196,7 +196,7 @@
     },
     {
       "slug": "bea-goal-credit-card-apple-pay-guide",
-      "url": "https://www.vooqqqm.com/guides/bea-goal-credit-card-apple-pay-guide.html",
+      "url": "https://www.vooqqqm.com/guides/bea-goal-credit-card-apple-pay-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "東亞銀行 BEA GOAL 信用卡與 Apple Pay 回贈攻略：簽賬門檻、網購手機支付回贈上限與申請須知",
@@ -224,7 +224,7 @@
     },
     {
       "slug": "boc-dual-currency-card-and-debit-card-guide",
-      "url": "https://www.vooqqqm.com/guides/boc-dual-currency-card-and-debit-card-guide.html",
+      "url": "https://www.vooqqqm.com/guides/boc-dual-currency-card-and-debit-card-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "中銀雙幣信用卡與中銀扣賬卡（BOC Debit Card）全面對比：淘寶免手續費、北上與海外簽賬選哪張？",
@@ -252,7 +252,7 @@
     },
     {
       "slug": "hk-unionpay-overseas-spending-best-cards",
-      "url": "https://www.vooqqqm.com/guides/hk-unionpay-overseas-spending-best-cards.html",
+      "url": "https://www.vooqqqm.com/guides/hk-unionpay-overseas-spending-best-cards",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "香港銀聯信用卡海外簽賬用邊張最抵？免 1.95% 外幣手續費卡種、中銀狂賞飛與雲閃付優惠 2026",
@@ -279,7 +279,7 @@
     },
     {
       "slug": "apple-store-credit-card-offers-2026",
-      "url": "https://www.vooqqqm.com/guides/apple-store-credit-card-offers-2026.html",
+      "url": "https://www.vooqqqm.com/guides/apple-store-credit-card-offers-2026",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "2026 香港及內地 Apple 官網買 iPhone / Mac 信用卡優惠攻略：高回贈刷卡、免息分期與 Gift Card 規則",
@@ -306,7 +306,7 @@
     },
     {
       "slug": "aeon-ccb-eye-fubon-hk-cards-comparison",
-      "url": "https://www.vooqqqm.com/guides/aeon-ccb-eye-fubon-hk-cards-comparison.html",
+      "url": "https://www.vooqqqm.com/guides/aeon-ccb-eye-fubon-hk-cards-comparison",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "AEON 信用卡積分、建行（亞洲）eye 信用卡、富邦信用卡迎新與便利店日常簽賬回贈對比",
@@ -333,7 +333,7 @@
     },
     {
       "slug": "icbc-singapore-ocbc-hk-crossborder-account-guide",
-      "url": "https://www.vooqqqm.com/guides/icbc-singapore-ocbc-hk-crossborder-account-guide.html",
+      "url": "https://www.vooqqqm.com/guides/icbc-singapore-ocbc-hk-crossborder-account-guide",
       "category": "hk-cards",
       "categoryName": "香港信用卡與回贈",
       "title": "中國工商銀行新加坡分行與華僑銀行（OCBC HK / SG）跨境賬戶科普：多幣種匯款、扣賬卡與管理費須知",
@@ -360,7 +360,7 @@
     },
     {
       "slug": "overseas-credit-card-cashback-rules",
-      "url": "https://www.vooqqqm.com/guides/overseas-credit-card-cashback-rules.html",
+      "url": "https://www.vooqqqm.com/guides/overseas-credit-card-cashback-rules",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "信用卡境外消费返现规则全拆解：报名制、达标门槛、MCC 码与入账时间差怎么看？",
@@ -387,7 +387,7 @@
     },
     {
       "slug": "wechat-lijianjin-stacking-and-refund-guide",
-      "url": "https://www.vooqqqm.com/guides/wechat-lijianjin-stacking-and-refund-guide.html",
+      "url": "https://www.vooqqqm.com/guides/wechat-lijianjin-stacking-and-refund-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "微信立减金与支付满减券实操指南：叠加规则、退款退券机制与常见领券渠道梳理",
@@ -414,7 +414,7 @@
     },
     {
       "slug": "card-networks-fx-and-dcc-fees-explained",
-      "url": "https://www.vooqqqm.com/guides/card-networks-fx-and-dcc-fees-explained.html",
+      "url": "https://www.vooqqqm.com/guides/card-networks-fx-and-dcc-fees-explained",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "银联、Visa、Mastercard、运通四大卡组织跨境结算汇率与货币转换费避坑手册",
@@ -441,7 +441,7 @@
     },
     {
       "slug": "credit-card-billing-cycle-and-grace-period",
-      "url": "https://www.vooqqqm.com/guides/credit-card-billing-cycle-and-grace-period.html",
+      "url": "https://www.vooqqqm.com/guides/credit-card-billing-cycle-and-grace-period",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "信用卡账单日与还款日怎么规划最合理？免息期计算、容时容差政策与自动还款设置清单",
@@ -468,7 +468,7 @@
     },
     {
       "slug": "unionpay-62-vip-and-card-points-comparison",
-      "url": "https://www.vooqqqm.com/guides/unionpay-62-vip-and-card-points-comparison.html",
+      "url": "https://www.vooqqqm.com/guides/unionpay-62-vip-and-card-points-comparison",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "云闪付 62 会员、银行 App 任务中心与快捷支付积分规则对比：哪些日常消费没有积分？",
@@ -495,7 +495,7 @@
     },
     {
       "slug": "annual-fee-waiver-and-card-selection-math",
-      "url": "https://www.vooqqqm.com/guides/annual-fee-waiver-and-card-selection-math.html",
+      "url": "https://www.vooqqqm.com/guides/annual-fee-waiver-and-card-selection-math",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "酒店联名卡、航司联名卡与标准返现信用卡怎么选？年费减免条件与权益回本测算方法",
@@ -522,7 +522,7 @@
     },
     {
       "slug": "subscription-auto-renewal-and-dispute-guide",
-      "url": "https://www.vooqqqm.com/guides/subscription-auto-renewal-and-dispute-guide.html",
+      "url": "https://www.vooqqqm.com/guides/subscription-auto-renewal-and-dispute-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "线上订阅服务绑卡扣费管理：预授权验证、自动续费关闭与境外盗刷争议处理流程",
@@ -549,7 +549,7 @@
     },
     {
       "slug": "credit-card-installment-true-apr-calculation",
-      "url": "https://www.vooqqqm.com/guides/credit-card-installment-true-apr-calculation.html",
+      "url": "https://www.vooqqqm.com/guides/credit-card-installment-true-apr-calculation",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "信用卡分期真实费率怎么算？“月手续费率”折算近似年化成本（IRR）原理与提前结清说明",
@@ -576,7 +576,7 @@
     },
     {
       "slug": "supplementary-credit-card-family-travel-guide",
-      "url": "https://www.vooqqqm.com/guides/supplementary-credit-card-family-travel-guide.html",
+      "url": "https://www.vooqqqm.com/guides/supplementary-credit-card-family-travel-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "信用卡附属卡（副卡）使用指南：额度共享机制、境外留学与家庭出行限额管理",
@@ -603,7 +603,7 @@
     },
     {
       "slug": "major-banks-wechat-alipay-pdd-douyin-limits",
-      "url": "https://www.vooqqqm.com/guides/major-banks-wechat-alipay-pdd-douyin-limits.html",
+      "url": "https://www.vooqqqm.com/guides/major-banks-wechat-alipay-pdd-douyin-limits",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "六大行与招行绑微信、支付宝、拼多多、抖音、美团、京东支付限额速查表与提额路径",
@@ -635,7 +635,7 @@
     },
     {
       "slug": "bank-card-payment-risk-control-unblock-guide",
-      "url": "https://www.vooqqqm.com/guides/bank-card-payment-risk-control-unblock-guide.html",
+      "url": "https://www.vooqqqm.com/guides/bank-card-payment-risk-control-unblock-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "工行、农行、邮储、交行、中行、招行在微信/支付宝/美团/拼多多提示“风控拦截/支付失败”怎么解除？",
@@ -666,7 +666,7 @@
     },
     {
       "slug": "how-to-check-and-raise-bank-payment-limits",
-      "url": "https://www.vooqqqm.com/guides/how-to-check-and-raise-bank-payment-limits.html",
+      "url": "https://www.vooqqqm.com/guides/how-to-check-and-raise-bank-payment-limits",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "银行卡“支付额度怎么查询与修改”？储蓄卡非柜面限额、快捷限额与信用卡可用额度三层拆解",
@@ -693,7 +693,7 @@
     },
     {
       "slug": "china-mastercard-icbc-debit-cmb-guide",
-      "url": "https://www.vooqqqm.com/guides/china-mastercard-icbc-debit-cmb-guide.html",
+      "url": "https://www.vooqqqm.com/guides/china-mastercard-icbc-debit-cmb-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "全新中国万事达卡（工商银行万事达借记卡、招商银行万事达卡）境内外一卡通用实测与返现指南",
@@ -720,7 +720,7 @@
     },
     {
       "slug": "jd-presale-deposit-unionpay-discount-rules",
-      "url": "https://www.vooqqqm.com/guides/jd-presale-deposit-unionpay-discount-rules.html",
+      "url": "https://www.vooqqqm.com/guides/jd-presale-deposit-unionpay-discount-rules",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "京东预售付定金与尾款能用中国银联/云闪付立减吗？大促合并付款与银行满减触发规则详解",
@@ -747,7 +747,7 @@
     },
     {
       "slug": "popular-cobranded-and-regional-cards-guide",
-      "url": "https://www.vooqqqm.com/guides/popular-cobranded-and-regional-cards-guide.html",
+      "url": "https://www.vooqqqm.com/guides/popular-cobranded-and-regional-cards-guide",
       "category": "cards",
       "categoryName": "信用卡与支付攻略",
       "title": "特色联名卡与城商行权益盘点：农行车主/京东卡、广发周五遇八有礼、中信动卡空间、华夏与广州银行信用卡",
@@ -776,7 +776,7 @@
     },
     {
       "slug": "cross-border-payment-connect-vs-wire-transfer",
-      "url": "https://www.vooqqqm.com/guides/cross-border-payment-connect-vs-wire-transfer.html",
+      "url": "https://www.vooqqqm.com/guides/cross-border-payment-connect-vs-wire-transfer",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "跨境支付通与传统电汇跨境转账有什么不一样？到账时效、手续费与适用场景对比",
@@ -803,7 +803,7 @@
     },
     {
       "slug": "hk-multicurrency-debit-card-usage-guide",
-      "url": "https://www.vooqqqm.com/guides/hk-multicurrency-debit-card-usage-guide.html",
+      "url": "https://www.vooqqqm.com/guides/hk-multicurrency-debit-card-usage-guide",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "香港多币种万事达扣账卡（蓝狮子等）使用指南：12 币种扣款逻辑、ATM 取现与限额设置",
@@ -830,7 +830,7 @@
     },
     {
       "slug": "hk-bank-account-maintenance-and-compliance",
-      "url": "https://www.vooqqqm.com/guides/hk-bank-account-maintenance-and-compliance.html",
+      "url": "https://www.vooqqqm.com/guides/hk-bank-account-maintenance-and-compliance",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "香港银行个人账户日常维护与合规用卡须知：不动户管理、FPS 转账边界与常见风控预防",
@@ -857,7 +857,7 @@
     },
     {
       "slug": "mainland-hk-swift-remittance-step-by-step",
-      "url": "https://www.vooqqqm.com/guides/mainland-hk-swift-remittance-step-by-step.html",
+      "url": "https://www.vooqqqm.com/guides/mainland-hk-swift-remittance-step-by-step",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "内地与香港同名跨境电汇全流程拆解：SWIFT 代码、中转行扣费与材料留存规范",
@@ -884,7 +884,7 @@
     },
     {
       "slug": "hk-travel-payment-methods-comparison",
-      "url": "https://www.vooqqqm.com/guides/hk-travel-payment-methods-comparison.html",
+      "url": "https://www.vooqqqm.com/guides/hk-travel-payment-methods-comparison",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "赴港消费支付方式全对比：八达通、内地支付宝/微信、银联与手机拍卡乘车实测要点",
@@ -911,7 +911,7 @@
     },
     {
       "slug": "macau-travel-payment-and-hotel-deposit-guide",
-      "url": "https://www.vooqqqm.com/guides/macau-travel-payment-and-hotel-deposit-guide.html",
+      "url": "https://www.vooqqqm.com/guides/macau-travel-payment-and-hotel-deposit-guide",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "澳门出行支付与用卡攻略：银联闪付、微信支付宝商圈立减与酒店押金预授权解冻周期说明",
@@ -938,7 +938,7 @@
     },
     {
       "slug": "hk-fps-fast-payment-system-guide",
-      "url": "https://www.vooqqqm.com/guides/hk-fps-fast-payment-system-guide.html",
+      "url": "https://www.vooqqqm.com/guides/hk-fps-fast-payment-system-guide",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "香港银行 FPS「转数快」怎么用？手机号/电邮默认收款行绑定、跨行秒到限额与账单缴费实操",
@@ -965,7 +965,7 @@
     },
     {
       "slug": "overseas-atm-cash-withdrawal-fees-guide",
-      "url": "https://www.vooqqqm.com/guides/overseas-atm-cash-withdrawal-fees-guide.html",
+      "url": "https://www.vooqqqm.com/guides/overseas-atm-cash-withdrawal-fees-guide",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "海外 ATM 外币取现手续费怎么算？发卡行取现费、当地 ATM 附加费（Surcharge）与省钱技巧",
@@ -992,7 +992,7 @@
     },
     {
       "slug": "prevent-card-block-while-traveling-abroad",
-      "url": "https://www.vooqqqm.com/guides/prevent-card-block-while-traveling-abroad.html",
+      "url": "https://www.vooqqqm.com/guides/prevent-card-block-while-traveling-abroad",
       "category": "cross-border",
       "categoryName": "港澳与跨境支付",
       "title": "跨境旅行常见卡片锁卡与风控如何预防？出行前报备、漫游短信接收与双卡备份方案",
@@ -1019,7 +1019,7 @@
     },
     {
       "slug": "hk-airport-departure-tax-refund-guide",
-      "url": "https://www.vooqqqm.com/guides/hk-airport-departure-tax-refund-guide.html",
+      "url": "https://www.vooqqqm.com/guides/hk-airport-departure-tax-refund-guide",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "香港国际机场飞机乘客离境税退税全攻略：豁免条件、准备材料与线上/柜台申办流程",
@@ -1046,7 +1046,7 @@
     },
     {
       "slug": "guangzhou-shenzhen-to-hk-airport-transit-guide",
-      "url": "https://www.vooqqqm.com/guides/guangzhou-shenzhen-to-hk-airport-transit-guide.html",
+      "url": "https://www.vooqqqm.com/guides/guangzhou-shenzhen-to-hk-airport-transit-guide",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "珠三角（广州/深圳）前往香港国际机场乘机全流程：高铁、深圳湾大巴与琶洲/蛇口快船对比",
@@ -1073,7 +1073,7 @@
     },
     {
       "slug": "japan-independent-travel-esim-suica-checklist",
-      "url": "https://www.vooqqqm.com/guides/japan-independent-travel-esim-suica-checklist.html",
+      "url": "https://www.vooqqqm.com/guides/japan-independent-travel-esim-suica-checklist",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "日本自由行行前准备清单：电子签证核验、流量卡/eSIM、西瓜卡绑定与交通支付实用经验",
@@ -1100,7 +1100,7 @@
     },
     {
       "slug": "japan-tax-free-shopping-rules-update",
-      "url": "https://www.vooqqqm.com/guides/japan-tax-free-shopping-rules-update.html",
+      "url": "https://www.vooqqqm.com/guides/japan-tax-free-shopping-rules-update",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "日本购物退税（Tax-Free）实操手册：一般物品与消耗品封装规定、护照核验与机场检查要点",
@@ -1127,7 +1127,7 @@
     },
     {
       "slug": "europe-schengen-tax-refund-global-blue-planet",
-      "url": "https://www.vooqqqm.com/guides/europe-schengen-tax-refund-global-blue-planet.html",
+      "url": "https://www.vooqqqm.com/guides/europe-schengen-tax-refund-global-blue-planet",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "欧洲申根区购物退税指南：Global Blue 与 Planet 退税单填写、海关盖章与退卡避坑对比",
@@ -1154,7 +1154,7 @@
     },
     {
       "slug": "korea-travel-wowpass-tax-refund-guide",
-      "url": "https://www.vooqqqm.com/guides/korea-travel-wowpass-tax-refund-guide.html",
+      "url": "https://www.vooqqqm.com/guides/korea-travel-wowpass-tax-refund-guide",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "韩国首尔与济州出行支付与退税攻略：T-money 交通卡、移动扫码立减与市区即时退税流程",
@@ -1181,7 +1181,7 @@
     },
     {
       "slug": "singapore-malaysia-contactless-transit-and-payment",
-      "url": "https://www.vooqqqm.com/guides/singapore-malaysia-contactless-transit-and-payment.html",
+      "url": "https://www.vooqqqm.com/guides/singapore-malaysia-contactless-transit-and-payment",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "新加坡与马来西亚无现金出行指南：地铁直接拍信用卡进站规则、Grab 绑卡与樟宜机场电子退税",
@@ -1208,7 +1208,7 @@
     },
     {
       "slug": "airport-lounge-dragonpass-priority-pass-guide",
-      "url": "https://www.vooqqqm.com/guides/airport-lounge-dragonpass-priority-pass-guide.html",
+      "url": "https://www.vooqqqm.com/guides/airport-lounge-dragonpass-priority-pass-guide",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "信用卡附带机场与高铁贵宾厅（龙腾出行 / Priority Pass）使用手册：携伴规则、餐食厅区别与预约细则",
@@ -1235,7 +1235,7 @@
     },
     {
       "slug": "flight-delay-insurance-credit-card-claim-guide",
-      "url": "https://www.vooqqqm.com/guides/flight-delay-insurance-credit-card-claim-guide.html",
+      "url": "https://www.vooqqqm.com/guides/flight-delay-insurance-credit-card-claim-guide",
       "category": "travel",
       "categoryName": "出境旅行与退税",
       "title": "信用卡航班延误险怎么理赔？“本人刷卡购票”条件、起飞 vs 到达起算标准与材料清单",
@@ -1262,7 +1262,7 @@
     },
     {
       "slug": "simple-vs-compound-interest-deposit-guide",
-      "url": "https://www.vooqqqm.com/guides/simple-vs-compound-interest-deposit-guide.html",
+      "url": "https://www.vooqqqm.com/guides/simple-vs-compound-interest-deposit-guide",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "什么是单利与复利？日常定期存款、大额存单计息方式对比与实际到期利息核算方法",
@@ -1289,7 +1289,7 @@
     },
     {
       "slug": "monthly-savings-plan-future-value-math",
-      "url": "https://www.vooqqqm.com/guides/monthly-savings-plan-future-value-math.html",
+      "url": "https://www.vooqqqm.com/guides/monthly-savings-plan-future-value-math",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "零存整取与按月攒钱计划怎么测算终值？期初存入与期末存入公式差异及家庭目标储蓄法",
@@ -1316,7 +1316,7 @@
     },
     {
       "slug": "bank-fx-rates-buy-sell-spread-explained",
-      "url": "https://www.vooqqqm.com/guides/bank-fx-rates-buy-sell-spread-explained.html",
+      "url": "https://www.vooqqqm.com/guides/bank-fx-rates-buy-sell-spread-explained",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "银行外汇牌价里的“现汇买入价、现钞买入价、卖出价”怎么看？购汇与结汇点差一表看懂",
@@ -1343,7 +1343,7 @@
     },
     {
       "slug": "household-budget-50-30-20-card-ledger",
-      "url": "https://www.vooqqqm.com/guides/household-budget-50-30-20-card-ledger.html",
+      "url": "https://www.vooqqqm.com/guides/household-budget-50-30-20-card-ledger",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "账单管理与家庭消费预算“50/30/20”分类法：如何用卡片分工实现无痛月度记账？",
@@ -1370,7 +1370,7 @@
     },
     {
       "slug": "credit-card-points-cash-equivalent-valuation",
-      "url": "https://www.vooqqqm.com/guides/credit-card-points-cash-equivalent-valuation.html",
+      "url": "https://www.vooqqqm.com/guides/credit-card-points-cash-equivalent-valuation",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "信用卡积分价值怎么折算才不被反薅？“每万分等效现金率”计算法与高性价比兑换去向",
@@ -1397,7 +1397,7 @@
     },
     {
       "slug": "avoid-dcc-dynamic-currency-conversion-abroad",
-      "url": "https://www.vooqqqm.com/guides/avoid-dcc-dynamic-currency-conversion-abroad.html",
+      "url": "https://www.vooqqqm.com/guides/avoid-dcc-dynamic-currency-conversion-abroad",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "商户动态货币转换（DCC）防坑指南：境外刷 POS 机为什么一定要选当地币种而不是人民币？",
@@ -1424,7 +1424,7 @@
     },
     {
       "slug": "hotel-car-rental-preauthorization-deposit-guide",
-      "url": "https://www.vooqqqm.com/guides/hotel-car-rental-preauthorization-deposit-guide.html",
+      "url": "https://www.vooqqqm.com/guides/hotel-car-rental-preauthorization-deposit-guide",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "押金类消费（海外租车与酒店入住）预授权与实际扣款有什么区别？额度释放周期与核账技巧",
@@ -1451,7 +1451,7 @@
     },
     {
       "slug": "gift-cards-prepaid-vouchers-safety-management",
-      "url": "https://www.vooqqqm.com/guides/gift-cards-prepaid-vouchers-safety-management.html",
+      "url": "https://www.vooqqqm.com/guides/gift-cards-prepaid-vouchers-safety-management",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "电子礼品卡、商超储值卡与银行消费券管理建议：有效期预警、合规使用边界与防诈骗提醒",
@@ -1478,7 +1478,7 @@
     },
     {
       "slug": "cross-border-ecommerce-black-friday-return-refund",
-      "url": "https://www.vooqqqm.com/guides/cross-border-ecommerce-black-friday-return-refund.html",
+      "url": "https://www.vooqqqm.com/guides/cross-border-ecommerce-black-friday-return-refund",
       "category": "tools-literacy",
       "categoryName": "消费规划与计算工具",
       "title": "海淘与黑五（Black Friday）跨境网购退货退款全流程：汇率差损谁承担、关税退还与返现追回规则",

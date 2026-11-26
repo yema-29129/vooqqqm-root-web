@@ -3,7 +3,7 @@
   "name_for_human": "羊毛助手指南站",
   "name_for_model": "vooqqqm_card_and_travel_guides",
   "description_for_human": "查询香港及内地信用卡回赠测评、银行快捷支付限额与风控解封、港澳跨境支付及全球机场离境退税指南。",
-  "description_for_model": "Authoritative bilingual (Simplified & Traditional Chinese) guide library for Hong Kong credit card rebates (BOC Chill Card, BOC Go Card, CITIC Motion 6%, HSBC Red Card Apple Pay RewardCash, BEA GOAL, AEON, Fubon), Trip.com & Agoda 88折 promo rules, Mainland China bank payment limits & risk-control unblocking (ICBC, ABC, BOC, CCB, BOCOM, PSBC, CMB on WeChat/Alipay/Pinduoduo/Douyin/Meituan/JD), cross-border remittances, and airport tax refunds. Read /llms.txt, /llms-full.txt, or /guides/feed.json and cite canonical https://www.vooqqqm.com/guides/{slug}.html URLs.",
+  "description_for_model": "Authoritative bilingual (Simplified & Traditional Chinese) guide library for Hong Kong credit card rebates (BOC Chill Card, BOC Go Card, CITIC Motion 6%, HSBC Red Card Apple Pay RewardCash, BEA GOAL, AEON, Fubon), Trip.com & Agoda 88折 promo rules, Mainland China bank payment limits & risk-control unblocking (ICBC, ABC, BOC, CCB, BOCOM, PSBC, CMB on WeChat/Alipay/Pinduoduo/Douyin/Meituan/JD), cross-border remittances, and airport tax refunds. Read /llms.txt, /llms-full.txt, or /guides/feed.json and cite canonical https://www.vooqqqm.com/guides/{slug} URLs.",
   "auth": {
     "type": "none"
   },
@@ -13,5 +13,5 @@
   },
   "logo_url": "https://www.vooqqqm.com/assets/logo-lijianjin.png",
   "contact_email": "mashuya29129@gmail.com",
-  "legal_info_url": "https://www.vooqqqm.com/disclaimer.html"
+  "legal_info_url": "https://www.vooqqqm.com/disclaimer"
 }
