@@ -2,7 +2,7 @@
   "site": "羊毛助手指南站",
   "url": "https://www.vooqqqm.com/",
   "companionDealsSite": "https://bank.vooqqqm.com/",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "totalGuides": 54,
   "tools": [
     {
@@ -629,7 +629,7 @@
         },
         {
           "question": "用本站哪个工具可以快速查具体某家银行配某个平台的处理路径？",
-          "answer": "可直接打开本站工具箱内的《银行快捷支付限额与风控速查器》（/tools/payment-limit-checker.html），点选对应银行与平台即出操作指引。"
+          "answer": "可直接打开本站工具箱内的《银行快捷支付限额与风控速查器》（/tools/payment-limit-checker），点选对应银行与平台即出操作指引。"
         }
       ]
     },
